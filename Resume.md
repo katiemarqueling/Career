@@ -1,7 +1,7 @@
 # Katie Marqueling
 After chasing my dreams of improving police-community trust relations for two years, my allergy to pepper spray is sending me on to new adventures. I am currently seeking a position that will challenge me with hard work, and improve my adaptability and leadership skills. I hope to bring my discipline, integrity, and positive attitude to a future team.
 ## Professional Experience
-###Police Officer Recruit
+### Police Officer Recruit
 #### Atlanta Police Department | June 2022 - January 2023
 * Studied criminal procedures, Georgia state laws, effective communication techniques, advanced defensive driving, first aid, and defensive tactics. 
 * Effectively performed work in stressful situations.
