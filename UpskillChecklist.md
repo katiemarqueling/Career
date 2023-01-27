@@ -32,7 +32,7 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [ ] YAML
     - [ ] XML
 - [ ] Markups
-    - [X] [Markdown]()
+    - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Markdown.md)
     - [ ] HTML and CSS
 #### Cloud Concepts
 - [ ] Core Concepts (Pros/Cons)
