@@ -13,7 +13,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Best Practices
 #### Version Control
 - [ ] Git
-    - [X] Commits
+    - [X] [Commits]()
     - [ ] Branches
 - [ ] GitHub
     - [ ] Merge Request
@@ -28,11 +28,11 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Production
 #### Data Formats and Markup Languages
 - [ ] Data Formats
-    - [X] [JSON] (https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Json.json)
+    - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Json.json)
     - [ ] YAML
     - [ ] XML
 - [ ] Markups
-    - [X] Markdown
+    - [X] [Markdown]()
     - [ ] HTML and CSS
 #### Cloud Concepts
 - [ ] Core Concepts (Pros/Cons)
