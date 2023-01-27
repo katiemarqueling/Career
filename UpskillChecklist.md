@@ -1,1 +1,3 @@
 Hi! Below you will find a checklist of the skills I am learning to become a more attractive canidate for a carrer in technology. While I recognize some of these concepts take years to master, I would like to have a basic understanding of these skills by March 15th, 2023. If you work in technology and have any advice on skills to add to this list, please open an issue. If you are a recruiter and would like to contact me about open jobs, you can reach me at katie@marqueling.com.
+
+##
