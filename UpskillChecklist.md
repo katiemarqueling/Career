@@ -3,115 +3,59 @@ Hi! Below you will find a checklist of the skills I am learning to become a more
 If you work in technology and have any advice on skills to add to this list, please open an issue. If you are a recruiter and would like to contact me about open jobs, you can reach me at katie@marqueling.com.
 
 #### SDLC and Aglie
-
 - [ ] Phases
-
 - [ ] Models
-
     - [ ] Waterfall
-
     - [ ] Agile
-
     - [ ] Lean
-
     - [ ] Iterative
-
     - [ ] Kanban
-
 - [ ] Best Practices
-
 #### Version Control
-
 - [ ] Git
-
     - [X] Commits
-
     - [ ] Branches
-
 - [ ] GitHub
-
     - [ ] Merge Request
-
     - [ ] Pull Request
-
     - [ ] Issues
-
     - [ ] Conventions
-
 #### CI/CD
-
 - [ ] Concepts
-
 - [ ] Pipelines
-
 - [ ] Enviroments 
-
 - [ ] Development
-
 - [ ] Production
-
 #### Data Formats and Markup Languages
-
 - [ ] Data Formats
-
-    - [ ] JSAON
-
-    - [ ] I/AML
-
+    - [ ] JSON
+    - [ ] YAML
     - [ ] XML
-
 - [ ] Markups
-
     - [X] Markdown
-
     - [ ] HTML and CSS
-
-    - [ ] LaTex (?)
-
 #### Cloud Concepts
-
 - [ ] Core Concepts (Pros/Cons)
-
 - [ ] Major Providers
-
 - [ ] Severless Concepts
-
 - [ ] Scalability/Resiliency
-
 - [ ] Infrastructure as Code
-
 #### Basic Coding
-
 - [ ] Python3
-
 #### Dev Tools
-
 - [ ] VsCode
-
 - [ ] Other IDEs
-
 - [ ] SSH and Key Management
-
 - [ ] Terminals
-
 #### Advanced Topics
-
 - [ ] APIs
-
 - [ ] Databases
-
 - [ ] Containers
-
     - [ ] Docker
-
     - [ ] Docker Swarm/K8s
-
 - [ ] Nginx/Apache
-
 - [ ] Node.js/Java
-
 - [ ] React/Angular
-
 
 
 
