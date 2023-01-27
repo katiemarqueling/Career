@@ -2,113 +2,115 @@ Hi! Below you will find a checklist of the skills I am learning to become a more
 
 If you work in technology and have any advice on skills to add to this list, please open an issue. If you are a recruiter and would like to contact me about open jobs, you can reach me at katie@marqueling.com.
 
-### SDLC and Aglie
+#### SDLC and Aglie
 
-> [ ] Phases
+- [ ] Phases
 
-> [ ] Models
+- [ ] Models
 
->> [ ] Waterfall
+    - [ ] Waterfall
 
->> [ ] Agile
+    - [ ] Agile
 
->> [ ] Lean
+    - [ ] Lean
 
->> [ ] Iterative
+    - [ ] Iterative
 
->> [ ] Kanban
+    - [ ] Kanban
 
-### Version Control
+- [ ] Best Practices
 
-> [ ] Git
+#### Version Control
 
->> [X] Commits
+- [ ] Git
 
->> [ ] Branches
+    - [X] Commits
 
-> [ ] GitHub
+    - [ ] Branches
 
->> [ ] Merge Request
+- [ ] GitHub
 
->> [ ] Pull Request
+    - [ ] Merge Request
 
->> [ ] Issues
+    - [ ] Pull Request
 
->> [ ] Conventions
+    - [ ] Issues
 
-### CI/CD
+    - [ ] Conventions
 
-> [ ] Concepts
+#### CI/CD
 
-> [ ] Pipelines
+- [ ] Concepts
 
-> [ ] Enviroments 
+- [ ] Pipelines
 
->> [ ] Dev
+- [ ] Enviroments 
 
->> [ ] Production
+- [ ] Development
 
-### Data Formats and Markup Languages
+- [ ] Production
 
-> [ ] Data Formats
+#### Data Formats and Markup Languages
 
->> [ ] JSAON
+- [ ] Data Formats
 
->> [ ] I/AML
+    - [ ] JSAON
 
->> [ ] XML
+    - [ ] I/AML
 
-> [ ] Markups
+    - [ ] XML
 
->> [X] Markdown
+- [ ] Markups
 
->> [ ] HTML and CSS
+    - [X] Markdown
 
->> [ ] LaTex 
+    - [ ] HTML and CSS
 
-### Cloud Concepts
+    - [ ] LaTex (?)
 
-> [ ] Core Concepts (Pros/Cons)
+#### Cloud Concepts
 
-> [ ] Major Providers
+- [ ] Core Concepts (Pros/Cons)
 
-> [ ] Severless Concepts
+- [ ] Major Providers
 
-> [ ] Scalability/Resiliency
+- [ ] Severless Concepts
 
-> [ ] Infrastructure as Code
+- [ ] Scalability/Resiliency
 
-### Basic Coding
+- [ ] Infrastructure as Code
 
-> [ ] Python3
+#### Basic Coding
 
-### Dev Tools
+- [ ] Python3
 
-> [ ] VsCode
+#### Dev Tools
 
-> [ ] Other IDEs
+- [ ] VsCode
 
-> [ ] SSH and Key Management
+- [ ] Other IDEs
 
-> [ ] Terminals
+- [ ] SSH and Key Management
 
-### Advanced Topics
+- [ ] Terminals
 
-> [ ] APIs
+#### Advanced Topics
 
-> [ ] Databases
+- [ ] APIs
 
-> [ ] Containers
+- [ ] Databases
 
->> [ ] Docker
+- [ ] Containers
 
->> [ ] Docker Swarm/K8s
+    - [ ] Docker
 
-> [ ] Nginx/Apache
+    - [ ] Docker Swarm/K8s
 
-> [ ] Node.js/Java
+- [ ] Nginx/Apache
 
-> [ ] React/Angular
+- [ ] Node.js/Java
+
+- [ ] React/Angular
 
 
 
