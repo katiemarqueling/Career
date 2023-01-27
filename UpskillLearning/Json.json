@@ -1,0 +1,35 @@
+{
+    "key": "vaule",
+    
+    "object":{
+        "sting": "value",
+        "number": 1,
+        "boolean": true,
+        "array":["array", "array", 1, true]}
+
+}
+
+{
+    "LivesInOurCondo": [
+   
+        {"name": "Christoph",
+        "human": true,
+        "age": 24,
+        "hobbies": ["video games", "bread making", "stamps"]},
+
+        {"name": "Katie",
+        "human": true,
+        "age": 23,
+        "hobbies": ["baking", "hiking", "knitting"]},
+    
+        {"name": "Tendy",
+        "human": false,
+        "age": 3,
+        "hobbies":["sleeping", "eating", "playing"]},
+
+        {"name": "Gwart",
+        "human": false,
+        "age": 1,
+        "hobbies":["eating crickets", "hiding in log", "being a frog"]}]
+}
+
