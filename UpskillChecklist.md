@@ -28,7 +28,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Production
 #### Data Formats and Markup Languages
 - [ ] Data Formats
-    - [ ] JSON
+    - [X] [JSON] (https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Json.json)
     - [ ] YAML
     - [ ] XML
 - [ ] Markups
