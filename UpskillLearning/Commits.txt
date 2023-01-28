@@ -9,12 +9,3 @@ commit: git commit -m "description"
 push: git push
 remove things from repo: git rm --cached docname.xxx
 check changes to be committed: git status
-OG branch: brach master
-new branch: git branch newbranchname
-see all branches: git branch
-switch branches: got checkout nameofbranch
-merge branches: git checkout master > get merge
-sync with github:  git remote add origin https://github.com/___.git
-commit to remote repo: git push branch OR git push remotename
-download: git clone
-refresh: git pull 
