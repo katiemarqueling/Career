@@ -9,8 +9,7 @@
 <b>Bold</b> <br>
 <u> Underline </u> <br>
 * Bullet Point <br>
-
-[X] Checkbox
+    - [X] Checklist
 1. List <br>
 A. Sublist <br>
 > Block Quote <br>
