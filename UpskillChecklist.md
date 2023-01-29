@@ -16,8 +16,7 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [X] [Commits](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Commits.txt)
     - [X] [Branches](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Branches.txt)
 - [ ] GitHub
-    - [ ] Merge Request
-    - [ ] Pull Request
+    - [ ] [Merge](C:\Users\katie\Desktop\Career\UpskillLearning\MarkdownPracticePhoto.jpg)/Pull Request
     - [ ] Issues
     - [ ] Conventions
 #### CI/CD
