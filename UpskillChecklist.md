@@ -14,7 +14,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 #### Version Control
 - [ ] Git
     - [X] [Commits](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Commits.txt)
-    - [X] [Branches](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Branches.txt)
+    - [ ] [Branches](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Branches.txt)
 - [ ] GitHub
     - [ ] [Merge](https://github.com/the-germanator/learn-git)/Pull Request
     - [ ] Issues

@@ -1,0 +1,21 @@
+- Local Location 
+- Clone
+    - <> Code 
+    - Copy Link
+    - git clone link
+- Making a Branch
+    - git branch newbranchname
+    - git checkout newbranchname
+- Make Changes
+- Push to Remote
+    - git add .
+    - git commit 
+    - git push -u origin newbranchname (only first commit)
+- Submit Pull Request 
+    - new pull request
+    - To <-- From
+    - get approved
+- Clean-up 
+    - git checkout main
+    - git pull
+    - delete local branch
