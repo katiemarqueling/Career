@@ -15,7 +15,7 @@ A. Sublist <br>
 > Block Quote <br>
 >> Nested Block Quote <br>
 
-![Picture]() <br>
+![Picture](MarkdownPracticePhoto.jpg) <br>
 
 | First Name | Last Name |
 |------------|-----------|
