@@ -20,7 +20,7 @@ Agile (SPRINTS)
     -Test
     -Maintain
 
-Practical Use
+-Practical Use
     -Project Planning
     -Production Roadnmap Creation
     -Release Planning

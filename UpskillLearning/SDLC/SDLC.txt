@@ -1,9 +1,9 @@
 Software Development Life Cycle (SDLC)
 
-Purpose
+-Purpose
     - Created to develop and test software that accuately meets cilent expectaion and does so in a time and cost effectie manner.
 
-Basic Phases   
+-Basic Phases   
     1. Plan
         -Identify current problems
         -What does the client want?
@@ -33,7 +33,7 @@ Basic Phases
         -Typically deployed in a testing enviroment first.
         -Fix bugs once deployed over the software course of life. 
 
-Models
+-Models
     -Agile
     -Big bang
     -Iterative
