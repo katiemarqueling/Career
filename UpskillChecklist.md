@@ -31,6 +31,10 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Markups
     - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/Markdown.md)
     - [ ] HTML and CSS
+    - [ ] AsciiDoc
+#### Technical Writing
+- [ ] Docs Like Code, Anne Gentle
+- [ ] CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation
 #### Cloud Concepts
 - [ ] Core Concepts (Pros/Cons)
 - [ ] Major Providers
