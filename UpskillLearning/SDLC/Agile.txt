@@ -1,5 +1,26 @@
 Agile (SPRINTS)
 
+-Avoids long-term planning and instead focuces on short term goals; an "iteration". 
+-Iterations, duration, cost, scope, and requirements are determined in intial developmet phase.
+-Iterations durations is know as sprint (about 1-4 weeks work).
+-Customer interaction is at the forefront of this method. 
+-Adaptive!
+
+-4 Values
+    -Interactions between individuals and groups about processes and tools.
+    -Working software takes precedence over thorough documentation.
+    -Collaboration with customers is preferred over contract negotiations.
+    -Adapting to change in accordance with a strategy.
+
+-6 Phases
+    -Requirements
+    -Analysis
+    -Design
+    -Develop
+    -Test
+    -Maintain
+
+Practical Use
     -Project Planning
     -Production Roadnmap Creation
     -Release Planning
