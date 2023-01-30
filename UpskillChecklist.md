@@ -3,13 +3,18 @@ Hi! Below you will find a checklist of the skills I am learning to become a more
 If you work in technology and have any advice on skills to add to this list, please open an issue. If you are a recruiter and would like to contact me about open jobs, you can reach me at katie@marqueling.com.
 
 #### SDLC and Aglie
-- [ ] Phases
+- [X] [Basics and Phases](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt)
 - [ ] Models
-    - [ ] Waterfall
     - [ ] Agile
-    - [ ] Lean
+    - [ ] Big bang
+    - [ ] DevOps
     - [ ] Iterative
     - [ ] Kanban
+    - [ ] Lean
+    - [ ] RAD
+    - [ ] Sprial
+    - [ ] V-model
+    - [ ] Waterfall
 - [ ] Best Practices
 #### Version Control
 - [ ] Git

@@ -1,0 +1,46 @@
+Software Development Life Cycle (SDLC)
+
+Purpose
+    - Created to develop and test software that accuately meets cilent expectaion and does so in a time and cost effectie manner.
+
+Basic Phases   
+    1. Plan
+        -Identify current problems
+        -What does the client want?
+        -Terms of project
+            -cost
+            -time
+            -goals
+        -Define scope of project
+            -purpose
+            -boundaries
+    2. Define
+        -Define and document requirements
+        -SRS (Software Requirement Specification)
+    3. Design
+        -UI 
+        -Programming
+        -Communication
+        -Architecture
+        -Platforms
+    4. Build
+        -Organization Guidelines
+            -Language used 
+            -Compilers
+    5. Test
+        -Identy bugs and continously fix till SRS is meet
+    6. Deploy and Maintain
+        -Typically deployed in a testing enviroment first.
+        -Fix bugs once deployed over the software course of life. 
+Models
+    -Agile
+    -Big bang
+    -DevOps
+    -Iterative
+    -Kanban
+    -Lean
+    -RAD
+    -Sprial
+    -V-model
+    -Waterfall
+
