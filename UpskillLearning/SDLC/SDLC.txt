@@ -36,7 +36,6 @@ Basic Phases
 Models
     -Agile
     -Big bang
-    -DevOps
     -Iterative
     -Kanban
     -Lean

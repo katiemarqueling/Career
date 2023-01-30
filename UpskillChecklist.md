@@ -6,14 +6,6 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [X] [Basics and Phases](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt)
 - [ ] Models
     - [ ] [Agile](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Agile.txt)
-    - [ ] Big bang
-    - [ ] DevOps
-    - [ ] Iterative
-    - [ ] Kanban
-    - [ ] [Lean](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Lean.txt0)
-    - [ ] RAD
-    - [ ] Sprial
-    - [ ] V-model
     - [ ] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Waterfall.txt)
 - [ ] [Best Practices](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/BestPractices.txt)
 #### Version Control
@@ -30,6 +22,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Enviroments 
 - [ ] Development
 - [ ] Production
+- [ ] DevOps
 #### Data Formats and Markup Languages
 - [ ] Data Formats
     - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Json.json)
