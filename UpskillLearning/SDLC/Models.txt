@@ -1,0 +1,28 @@
+Models
+
+Agile
+    -
+
+Big bang
+    -
+
+Iterative
+    -
+
+Kanban
+    -
+
+Lean
+    -
+
+RAD
+    -
+
+Sprial
+    -
+
+V-model
+    -
+
+Waterfall
+    -

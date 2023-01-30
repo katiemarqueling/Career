@@ -2,13 +2,13 @@ Hi! Below you will find a checklist of the skills I am learning to become a more
 
 If you work in technology and have any advice on skills to add to this list, please open an issue. If you are a recruiter and would like to contact me about open jobs, you can reach me at katie@marqueling.com.
 
-#### SDLC and Aglie
+#### [SDLC](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/SDLC)
 - [X] [Basics and Phases](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt)
-- [ ] Models
+- [ ] [Models](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Models.txt)
     - [ ] [Agile](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Agile.txt)
     - [ ] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Waterfall.txt)
 - [ ] [Best Practices](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/BestPractices.txt)
-#### Version Control
+#### [Version Control](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/VersionControlgit )
 - [ ] Git
     - [X] [Commits](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Commits.txt)
     - [ ] [Branches](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Branches.txt)
@@ -23,7 +23,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Development
 - [ ] Production
 - [ ] DevOps
-#### Data Formats and Markup Languages
+#### [Data Formats](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats) and [Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/MarkupLanguages)
 - [ ] Data Formats
     - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Json.json)
     - [ ] YAML
