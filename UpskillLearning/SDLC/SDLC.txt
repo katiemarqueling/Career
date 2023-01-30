@@ -32,6 +32,7 @@ Basic Phases
     6. Deploy and Maintain
         -Typically deployed in a testing enviroment first.
         -Fix bugs once deployed over the software course of life. 
+
 Models
     -Agile
     -Big bang
