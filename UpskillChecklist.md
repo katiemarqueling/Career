@@ -3,17 +3,17 @@ Hi! Below you will find a checklist of the skills I am learning to become a more
 If you work in technology and have any advice on skills to add to this list, please open an issue. If you are a recruiter and would like to contact me about open jobs, you can reach me at katie@marqueling.com.
 
 #### [SDLC](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/SDLC)
-- [X] [Basics and Phases](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt)
-- [ ] [Models](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt/Models.txt)
-    - [ ] [Agile](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt/Agile.txt)
-    - [ ] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt/Waterfall.txt)
-- [ ] [Best Practices](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt/BestPractices.txt)
-#### [Version Control](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/VersionControl.git)
+- [X] [Basics and Phases](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/SDLC.txt)
+- [ ] [Models](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Models.txt)
+    - [ ] [Agile](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Agile.txt)
+    - [ ] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Waterfall.txt)
+- [ ] [Best Practices](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/BestPractices.txt)
+#### [Version Control](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/VersionControl)
 - [ ] Git
-    - [X] [Commits](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl.git/Commits.txt)
-    - [ ] [Branches](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl.git/Branches.txt)
+    - [X] [Commits](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Commits.txt)
+    - [ ] [Branches](hhttps://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Branches.txt)
 - [ ] GitHub
-    - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl.git/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
+    - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
     - [ ] Issues
     - [ ] Conventions
 #### CI/CD
