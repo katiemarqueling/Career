@@ -4,16 +4,16 @@ If you work in technology and have any advice on skills to add to this list, ple
 
 #### [SDLC](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/SDLC)
 - [X] [Basics and Phases](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt)
-- [ ] [Models](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Models.txt)
-    - [ ] [Agile](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Agile.txt)
-    - [ ] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Waterfall.txt)
-- [ ] [Best Practices](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/BestPractices.txt)
-#### [Version Control](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/VersionControlgit )
+- [ ] [Models](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt/Models.txt)
+    - [ ] [Agile](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt/Agile.txt)
+    - [ ] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt/Waterfall.txt)
+- [ ] [Best Practices](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC.txt/BestPractices.txt)
+#### [Version Control](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/VersionControl.git)
 - [ ] Git
-    - [X] [Commits](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Commits.txt)
-    - [ ] [Branches](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Branches.txt)
+    - [X] [Commits](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl.git/Commits.txt)
+    - [ ] [Branches](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl.git/Branches.txt)
 - [ ] GitHub
-    - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
+    - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl.git/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
     - [ ] Issues
     - [ ] Conventions
 #### CI/CD
@@ -25,11 +25,11 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] DevOps
 #### [Data Formats](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats) and [Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/MarkupLanguages)
 - [ ] Data Formats
-    - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Json.json)
+    - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/Json.json)
     - [ ] YAML
     - [ ] XML
 - [ ] Markups
-    - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/Markdown.md)
+    - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/Markdown.md)
     - [ ] HTML and CSS
 #### Cloud Concepts
 - [ ] Core Concepts (Pros/Cons)
