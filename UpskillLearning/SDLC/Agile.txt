@@ -1,0 +1,8 @@
+Agile (SPRINTS)
+
+    -Project Planning
+    -Production Roadnmap Creation
+    -Release Planning
+    -Sprint Planning
+    -Daily Meetings
+    -Sprint Review

@@ -1,0 +1,7 @@
+Waterfall
+ 
+    -Requirement Analysis
+    -System Design
+    -Implementation
+    -Verfication
+    -Maintenance
