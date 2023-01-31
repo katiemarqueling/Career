@@ -1,7 +1,26 @@
 Waterfall
  
-    -Requirement Analysis
-    -System Design
+ - Linear, each phase  must be completed before moving on to the next. 
+ - Everything is planned on the front end. Must really understand what customer is looking for. 
+
+ -5 Phases
+    -Requirement
+      -What customer wants
+         -Assumptions
+         -Dependencies
+         -Risk
+         -Cost 
+         -Time
+         -Sucess Statistics
+    -Design
+      -What is the technical solution
+         -Projected Specs
+         -Models
+         -Hardware and software to be sed 
     -Implementation
+      -Develop Code from Design
     -Verfication
+      -Customer Approves
     -Maintenance
+      -Fix Bugs Overtime
+      -Updated Versions
