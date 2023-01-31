@@ -11,7 +11,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 #### [Version Control](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/VersionControl)
 - [ ] Git
     - [X] [Commits](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Commits.txt)
-    - [ ] [Branches](hhttps://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Branches.txt)
+    - [ ] [Branches](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Branches.txt)
 - [ ] GitHub
     - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
     - [ ] Issues
@@ -32,8 +32,8 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/Markdown.md)
     - [ ] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/LifeofTendy.html)
     - [ ] AsciiDoc
-#### Technical Writing
-- [ ] <i> Docs Like Code </i>, Anne Gentle
+#### [Technical Writing](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/TechnicalWriting)
+- [ ] [<i> Docs Like Code </i>, Anne Gentle](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/DocsLikeCode.txt)
 - [ ] CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation
 #### Cloud Concepts
 - [ ] Core Concepts (Pros/Cons)
