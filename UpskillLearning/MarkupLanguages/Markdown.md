@@ -19,7 +19,7 @@ A. Sublist <br>
 <html> 
 ```
 
-![Picture](MarkdownPracticePhoto.jpg) <br>
+![Picture](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/MarkdownPracticePhoto.jpg) <br>
 
 | First Name | Last Name |
 |------------|-----------|
