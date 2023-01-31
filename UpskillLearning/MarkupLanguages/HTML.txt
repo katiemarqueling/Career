@@ -1,0 +1,64 @@
+Start document with <!DOCTYPE html> followed by <html>
+End document with </html>
+file:///filepath
+
+Main title:
+    <head>
+    <title>Page Title</title>
+    </head>
+
+Content:
+    <body>body</body>
+    <h1>heading</h1> through <h6> </h6>
+    <h1 style="font-size:60px;">Heading 1</h1>
+    <p>paragraph</p>
+    <p title="I'm a tooltip">This is a paragraph.</p>
+    <a herf="https://github.com/katiemarqueling">This is a link</a>
+    <img src="picture.jpg" alt="picture.com" width="100" height="100">
+
+<br> line break
+<pre>preformatted text</pre>
+<a> hyperlink
+href= URL
+<img> images
+src= path to images
+alt= if image does not work, then alt text will display
+style= color, font-family, font-size, text-align, background-color
+lang= "en" for english
+<!-- This is a comment -->
+
+Formatting:
+    <b> - Bold text
+    <strong> - Important text
+    <i> - Italic text
+    <em> - Emphasized text
+    <mark> - Marked text
+    <small> - Smaller text
+    <del> - Deleted text
+    <ins> - Inserted text
+    <sub> - Subscript text
+    <sup> - Superscript text
+    
+Quotes:
+    <abbr>abbreviation or acronym
+    <address>contact information for the author/owner of a document
+    <bdo>text direction
+    <blockquote>section that is quoted from another source
+    <cite>title of a work
+    <q>	short inline quotation
+
+Color:
+    <p style="color:green;">Green paragraph.</p>
+    <h1 style="border:2px solid Tomato;">Hello World</h1>
+    <h1 style="background-color:rgb(255, 99, 71);">...</h1>
+    <h1 style="background-color:#ff6347;">...</h1>
+
+CSS:
+<style>
+body {background-color: powderblue;}
+h1 { 
+    color: blue;
+    font-family: verdana;
+    font-size: 300%}
+p {color: red;}
+</style>
