@@ -2,12 +2,12 @@ Start document with <!DOCTYPE html> followed by <html>
 End document with </html>
 file:///filepath
 
-Main title:
+Main title: NOT VISABLE
     <head>
     <title>Page Title</title>
     </head>
 
-Content:
+Content: VISABLE
     <body>body</body>
     <h1>heading</h1> through <h6> </h6>
     <h1 style="font-size:60px;">Heading 1</h1>

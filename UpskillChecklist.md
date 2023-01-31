@@ -30,7 +30,7 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [ ] XML
 - [ ] Markups
     - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/Markdown.md)
-    - [ ] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/HTML.html)
+    - [ ] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/MorningRoutineofTendy.html)
     - [ ] AsciiDoc
 #### Technical Writing
 - [ ] <i> Docs Like Code </i>, Anne Gentle
