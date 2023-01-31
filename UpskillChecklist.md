@@ -33,7 +33,7 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [ ] HTML and CSS
     - [ ] AsciiDoc
 #### Technical Writing
-- [ ] Docs Like Code, Anne Gentle
+- [ ] <i> Docs Like Code </i>, Anne Gentle
 - [ ] CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation
 #### Cloud Concepts
 - [ ] Core Concepts (Pros/Cons)
