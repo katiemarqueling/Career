@@ -1,1 +1,25 @@
 Chapter 1:
+    -user-centerd docs that are technically accurate
+    -currently developed by using Agile techniques
+    -purpose is to aid in the effective use of technology
+    -treat docs like code:
+        -store the doc source files in a version control system
+        -build the doc artifacts automatically
+         enusre that a trusted set of reviewers meticulously review the documents
+        -publish the artifacts without much human intervention
+    -JavaDoc, REST API
+    -goals of docs like code:
+        -promote collaboration: GitHub social network, continious intergration, 
+         automated teting, and incremental improvement
+        -get long-tail contributions: rise of the niche, docs that are constructed 
+         from obsceure knowledge gathering and hard-to-find information, specialist 
+         in the topic to help you understand, dont belittle a complex software product
+         that only a few people understand deeply 
+        -track doc bugs like code bugs: tracked incremental improvement
+        -get better reviews: reviewers can see what was changed before approving, 
+         notifications that something was changed
+        -make beautiful docs: clean, useful, well organized docs, Sphinx, Bootstrap
+        -use developer tools and workflows: published automatically, can focus on content
+         not build, write code to format for you, do not guard writing knowledge or 
+         tools in order to protect jobs
+        -get value from cost effective tools: already have GitHub, dont need specalized equiment
