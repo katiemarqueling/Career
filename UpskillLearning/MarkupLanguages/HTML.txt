@@ -18,6 +18,8 @@ Content: VISABLE
     <!-- This is a comment -->
     <a> link
     <img>
+    <ul> list 
+        <li></li></ul>
 
 Links:
     <a herf="https://github.com/katiemarqueling">link</a>

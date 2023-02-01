@@ -34,12 +34,27 @@
         font-size: 200%;
         border-style: inset
     }
+
+    * {box-sizing: border-box;
+    }
+
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+    }
+
+    .row::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
 </style>
 
 <body>
 <h1 id="title">Life of Tendy</h1>
-    <img src="https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/HappyTendy.jpg?raw=true"
-        alt="Happy Tendy" width="900" height="700">
+    <img src="https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/TendyTuckedIn.jpg?raw=true"
+    alt="Tendy Tucked In" width="900" height="700">
 <h2 class="subtitles">Morning Routine</h2>
     <p>Tendy wakes when the sun has just begun to crest the houses on Savannah Street. After fifteen minutes of
         contemplating whether to get up, she begrudgingly gets out of bed and performs her routine of stretches.
@@ -70,21 +85,26 @@
         but what is moms is Tendies too. Tendy gets comfortable as she prepares to spend most of the day laying on
         her porch performing some of her favorite activities: snoring,
         dreaming about squirrels, farting, eating treats,and watching cars go by.</p>
-<h2 class="subtitles">Porch</h2>
-    <p>One of Tendies favorite aspects of life is laying on her porch.</p>
-    <img src="https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/TendyOnPorch.jpg?raw=true"
-        alt="Tendy laying on her porch" width="700" height="900">
-    <img src="https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/TendyTuckedIn.jpg?raw=true"
-        alt="Tendy Tucked In" width="900" height="700">
 <h2 class="subtitles">Hiking</h2>
     <p> On the weekend Tendy likes to go on hikes. Recently Angel Falls,
         High Shoals Falls, Lower Black Falls have all been greeted by Tendies presence.
         Tendy prefers hikes that are between two and four miles long and have a waterfall.
         She quite enjoys getting into the water and splashing around. </p>
-    <img src="https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/TendyAtHighShoals.jpg?raw=true"
-        alt="Tendy at High Shoals" width="400" height="300">
-    <img src="https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/TendyAtAngelFalls.jpg?raw=true"
-        alt="Tendy at Angel Falls" width="400" height="300">
-</body>
-
+    <div class="row">
+    <div class="column">
+        <img src="https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/TendyWaterfall.jpg?raw=true"
+        alt="Tendy at Waterfall" style="width:100%"></div>
+    <div class="row">
+    <div class="column">
+        <img src="https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/TendyAtHighShoals.jpg?raw=true"
+        alt="Tendy at High Shoals" style="width:100%"></div>
+    <div class="row">
+    <div class="column">
+        <img src="https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/TendyAtAngelFalls.jpg?raw=true"
+        alt="Tendy at Angel Falls" style="width:100%"></div></div>
+<h2 class="subtitles">Tendy Approved Products</h2>
+    <ul>
+    <li><p><a href="https://www.greenies.com/">Grennies</a></p></li>
+    <li><p><a href="https://www.etsy.com/listing/691086845/large-dog-bed-with-step-ramp-wood-raised?click_key=b500c0f45062ba4262d8f6dddb4c3898a325d5db%3A691086845&click_sum=59f9e26c&ref=shop_home_feat_1/">Dog Porch</a></p></li>
+    </ul>
 </html>
