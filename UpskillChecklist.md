@@ -9,9 +9,9 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [X] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Waterfall.txt)
 - [ ] [Best Practices](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/BestPractices.txt)
 #### [Version Control](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/VersionControl)
-- [ ] Git
-    - [X] [Commits](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Commits.txt)
-    - [ ] [Branches](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Branches.txt)
+- [ ] [Git](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Git.txt)
+    - [X] Commits
+    - [ ] Branches
 - [ ] GitHub
     - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
     - [ ] Issues
