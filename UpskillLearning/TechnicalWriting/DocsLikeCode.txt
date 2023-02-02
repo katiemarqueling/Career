@@ -5,15 +5,15 @@ Chapter 1:
     -treat docs like code:
         -store the doc source files in a version control system
         -build the doc artifacts automatically
-         enusre that a trusted set of reviewers meticulously review the documents
+         ensure that a trusted set of reviewers meticulously review the documents
         -publish the artifacts without much human intervention
-    -JavaDoc, REST API
+    -JavaDoc, REST API, Django
     -goals of docs like code:
-        -promote collaboration: GitHub social network, continious intergration, 
-         automated teting, and incremental improvement
+        -promote collaboration: GitHub social network, continuous integration, 
+         automated testing, and incremental improvement
         -get long-tail contributions: rise of the niche, docs that are constructed 
-         from obsceure knowledge gathering and hard-to-find information, specialist 
-         in the topic to help you understand, dont belittle a complex software product
+         from obscure knowledge gathering and hard-to-find information, specialist 
+         in the topic to help you understand, don't belittle a complex software product
          that only a few people understand deeply 
         -track doc bugs like code bugs: tracked incremental improvement
         -get better reviews: reviewers can see what was changed before approving, 
@@ -22,4 +22,42 @@ Chapter 1:
         -use developer tools and workflows: published automatically, can focus on content
          not build, write code to format for you, do not guard writing knowledge or 
          tools in order to protect jobs
-        -get value from cost effective tools: already have GitHub, dont need specalized equiment
+        -get value from cost effective tools: already have GitHub, don't need specialized equipment
+
+Chapter 2:
+    -source file organization (separate repo, multiple repos, or with code)
+        -users: make sure your user needs what you are actually creating
+        -contributors: create a separate repo if developer is confused by docs, more accurate = same repo
+        -reviewers: what collaborators are the best to review and what is their preference
+        -content size: do reviewers need look at everything or just technical parts (separate repos)
+        -deployed docs: is everything being released together
+        -translated docs: if freeze for translation is needed, split code and docs
+    -inclusion mechanisms
+        -enales authors to insert a reference to other content and pull tha content into
+         the loacation at build time
+        -reuses smaller pieces of information
+    -speciality information - REST API docs:
+        -DXs can let multiple contributors work on one file at the same time
+        -API complexity
+            -methods: HTTP GET, PUT, POST, PATCH, DELETE
+            -headers: any extra headers API defines besided GET
+            -parameters: what query, template, and body parameters are required
+            -error codes: are errors easy to understand, or do you need to document what they mean
+        -API source frameworks/API description language
+            -OpenAPI (Swagger): JSON, YAML
+            -RESTful API: YAML
+            -API Blueprint: Markdown
+        -API life cycle
+            -github is not a API management platform
+            -also need security, parameter testing, monitoring, monetizing, visualizing, webhooks, 
+             terms of service, discovery, and the vocice for the API
+            -API life cycle: Subway Map API by Kin Lane
+        -API user docs
+            -API docs make API findable and usable
+            -need auto-generated reference docs that describe architecture and why it exists, along
+             with code samples and tutorials
+        -API guidelines
+            -GitHub for REST APIs: document expectations for sorce file markup, contribution rules,
+             completenes difinitions, review guidelines, and quality indicators
+
+
