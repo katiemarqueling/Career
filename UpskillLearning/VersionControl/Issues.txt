@@ -1,0 +1,12 @@
+Issues Notes
+
+    -under repository name click issues 
+    -new issue
+    -open a blank issue
+    -fill out
+    -can create md list
+    -can add labels/milestones
+    -assign the issue
+    -add issue to a project
+    -submit
+    -issue now has unique URL
