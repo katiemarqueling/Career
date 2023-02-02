@@ -1,0 +1,181 @@
+STC Certification
+
+-Six questions that will help you to assess your audience and their context
+    -audience expectations
+    -knowledge of topic
+    -attitude toward topic
+    -audience size
+    -demographics
+    -setting
+    -voluntariness
+    -egocentrism
+-The five phases of a technical communication project
+    -plan
+    -structure
+    -write
+    -review
+    -publish
+-The four phases of team-building
+    -forming
+    -storming
+    -norming
+    -preforming
+-The most common types of technical documents and components of each
+-Techniques for testing your documents
+-Key principles of visual design
+-Techniques for gathering, organizing, and validating source materia
+-The five stages of the technical writing process and how they are followed
+    -Planning and Researching
+    -Organizing and Drafting
+    -Improving Style
+    -Designing
+    -Revising and Editing
+-Key facts about readers and reader profiles 
+    -What a reader profile is 
+    -The names of the four types of readers
+        -Primary
+        -Secondary
+        -Tertiary
+        -Gatekeepers 
+-The rhetorical situation and how readers and context is defined:
+    -The four elements of the rhetorical situation
+    -Three aspects that determine how readers make decision
+        -Needs
+        -Values
+        -Attitudes
+    -Four contexts of document use
+        -Physical
+        -Economic
+        -Political
+        -Ethical
+-How to work with global audience
+    -The five helpful strategies
+    -Four aspects of a document that may need to be adjusted 
+-What technical genres are and how they are used 
+-The sources used for research and the different kinds of evidence
+    -The different types of primary and secondary sources of evidence 
+    -The three kinds of evidence solid research draws on: 
+        -Electronic
+        -Print
+        -Empirical
+-Introduction of a document
+    -The six opening moves
+    -How to organise the opening moves
+-The major patterns of arrangement for the body of a document and how they are used
+-The five closing moves in a conclusion
+-Typical patterns for organising each of the six technical genres:
+    -Letter, Memos and E-mail 
+    -Technical Descriptions and Specifications 
+    -Instructions and Documentation 
+    -Proposals
+    -Activity Reports 
+    -Analytical Reports
+-Key facts about writing plain sentences:
+    -The eight guidelines for writing plain sentences
+    -The four types of sentences used in paragraphs
+-Key facts about the different writing styles 
+    -When it is appropriate to use plain writing style 
+    -When it is appropriate to use persuasive writing style 
+    -The differences between the plain and persuasive writing styles 
+    -The four persuasion techniques: 
+        -Elevate the tone 
+        -Use similes and analogies 
+        -Use metaphors 
+        -Change the pace 
+-The writing strategies for improving the style and design of websites 
+    -The four strategies for improving the writing style on websites and why these are useful:
+        -Keep sentences short 
+        -Keep paragraphs short 
+        -Links should reflect titles
+        -Create a consistent tone
+    -The writing strategies for improving the readability of websites for global audiences 
+-Key facts about visual design:
+    -The five principles of visual design 
+    -Why good visual design is important for technical communication
+    -The four different visual design considerations for culturally shallow documents
+-The four guidelines for using graphics in documents
+-The special considerations that apply when working with visuals in a presentation:
+    -Choosing formats
+    -Choosing fonts
+    -Using graphics 
+-Key facts about editing a document: 
+    -The names of the four levels of editing
+    -How to determine the appropriate level of edit for a document 
+-The importance of: 
+    -Document cycling 
+    -Usability testing
+-Key facts about usability testing:
+    -The types of usability testing used in evaluating technical writing products 
+    -The four questions used to help design usability tests 
+-The common copyediting symbols and what they mean
+-The four stages of forming a work team and their sequence (according to Tuckman). 
+-Key facts about writing for websites: 
+    -The basic features of a website and how they are navigated by the reader 
+    -The guidelines for determining the number of levels needed in a website 
+-The different types of websites used in the workplace and what they are the commonly used for: 
+    -Social networks 
+    -Wikis 
+    -Blogs 
+    -Microblogs 
+    -Video and podcasts
+
+-What is an editor on a technical communication team typically responsible for?
+    -Evaluating missing content areas and how information is organized
+-Which of the following statements are correct guidelines for writing plain sentences?
+    1. Use the doer as the subject of the sentence
+    2. Write sentences that are breathing length
+    3. Eliminate nominalizations
+    4. Put the subject toward the end of the sentence
+        -1, 2, 3
+-Which approach is applying the visual design principle of grouping?
+    1. Use borders to break the page into more manageable sections
+    2. Offset the elements on a page to create a stable feeling in the text
+    3. Use horizontal straight lines (rules) to signal places to pause in the document
+    4. Use the white space appropriately to frame items on the page
+        -1,3,4
+-Which of the following statements about the focus of substantive editing are true?
+    1. The content should be checked for any gaps or digressions.
+    2. The document should be designed for the target audience and the context of use.
+        -Only 1 is true
+        -Only 2 is true
+        -Both 1 and 2 are true
+        -Neither 1 or 2 is true
+-Which communication situation is MOST likely to use the technical genre of activity reports?
+    -Presenting an innovative idea to management for their consideration
+    -Reporting on an issue and its future implications for the workplace
+    -Reporting findings from a study and making a recommendation on the next steps
+    -Describing how to complete a workplace activity or process
+-Which is a factor for consideration when using symbols in documents for a global audience?
+    -Use of symbols can result in unintended consequences
+    -Symbols add little value to technical documents
+    -Shapes such as circles or squares are too simple to add any value
+    -Symbols can confuse readers of documents not in their first language
+-Which of the following are major patterns of arrangement for a section of a document?
+    1. Cause and effect
+    2. Chronological order
+    3. Comparison and contrast
+    4. Mandatory and optional
+        -1, 2, 3
+        -1, 2, 4
+        -1, 3, 4
+        -2, 3, 4
+-According to Johnson Sheehan, which of the following statements about project outcomes and deliverables are true?
+    1. Project outcomes are the visible and measurable results of the team’s efforts.
+    2. Deliverables are the real products or services that you will deliver to clients upon a project’s completion.
+        -Only 1 is true
+        -Only 2 is true
+        -Both 1 and 2 are true
+        -Neither 1 or 2 is true
+-Which of the following is NOT a benefit of using reader profiles for technical communication?
+    -Provides information on how readers will use the document
+    -Helps with the presentation of the same information to different audiences
+    -Provides a visual way of presenting ideas and understanding their logical relationships
+    -Helps determine suitable pattern of arrangements for the body of the document
+-When strategically planning the work of a technical documentation team, in what sequence are the following typically undertaken?
+    1. Create a list of tasks
+    2. Develop a timeline
+    3. Set objectives
+        -1, 2, 3
+        -2, 3, 1
+        -2, 1, 3
+        -3, 1, 2
