@@ -1,5 +1,7 @@
 Issues Notes
 
+https://github.com/katiemarqueling/Career/issues/1
+
     -under repository name click issues 
     -new issue
     -open a blank issue
