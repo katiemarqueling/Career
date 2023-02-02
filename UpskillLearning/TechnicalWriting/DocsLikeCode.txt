@@ -1,4 +1,4 @@
-Chapter 1:
+Chapter 1: introducing docs-like-code
     -user-centerd docs that are technically accurate
     -currently developed by using Agile techniques
     -purpose is to aid in the effective use of technology
@@ -24,7 +24,7 @@ Chapter 1:
          tools in order to protect jobs
         -get value from cost effective tools: already have GitHub, don't need specialized equipment
 
-Chapter 2:
+Chapter 2: plan for docs-like-code
     -source file organization (separate repo, multiple repos, or with code)
         -users: make sure your user needs what you are actually creating
         -contributors: create a separate repo if developer is confused by docs, more accurate = same repo
@@ -60,4 +60,11 @@ Chapter 2:
             -GitHub for REST APIs: document expectations for sorce file markup, contribution rules,
              completenes difinitions, review guidelines, and quality indicators
 
-
+Chapter 3: optimize docs-like code workflows
+    -basic workflows
+        -centralized: working in main
+        -feature branch: work in separate branch
+        -gitflow: work in feature branch but with specific guidelines
+        -forking: work in independent fork and merge when you want to
+    -the further the documents are from the code, the harder it is to keep them in sync
+    
