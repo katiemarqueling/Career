@@ -16,13 +16,6 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
     - [X] [Issues](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Issues.txt)
     - [ ] Conventions
-#### CI/CD
-- [ ] Concepts
-- [ ] Pipelines
-- [ ] Enviroments 
-- [ ] Development
-- [ ] Production
-- [ ] DevOps
 #### [Data Formats](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats) and [Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/MarkupLanguages)
 - [ ] Data Formats
     - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/Json.json)
@@ -40,6 +33,13 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Swagger
 - [ ] JavaDocs
 - [ ] RESTful
+#### CI/CD
+- [ ] Concepts
+- [ ] Pipelines
+- [ ] Enviroments 
+- [ ] Development
+- [ ] Production
+- [ ] DevOps
 #### Cloud Concepts
 - [ ] Core Concepts (Pros/Cons)
 - [ ] Major Providers
