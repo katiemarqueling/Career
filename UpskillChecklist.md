@@ -14,7 +14,7 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [ ] Branches
 - [ ] GitHub
     - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
-    - [ ] Issues
+    - [ ] [Issues](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Issues.txt)
     - [ ] Conventions
 #### CI/CD
 - [ ] Concepts
