@@ -1,4 +1,4 @@
-STC Certification
+STC Certification Notes
 
 -Six questions that will help you to assess your audience and their context
     -audience expectations
@@ -136,46 +136,31 @@ STC Certification
 -Which of the following statements about the focus of substantive editing are true?
     1. The content should be checked for any gaps or digressions.
     2. The document should be designed for the target audience and the context of use.
-        -Only 1 is true
-        -Only 2 is true
         -Both 1 and 2 are true
-        -Neither 1 or 2 is true
 -Which communication situation is MOST likely to use the technical genre of activity reports?
     -Presenting an innovative idea to management for their consideration
-    -Reporting on an issue and its future implications for the workplace
+    +Reporting on an issue and its future implications for the workplace
     -Reporting findings from a study and making a recommendation on the next steps
     -Describing how to complete a workplace activity or process
 -Which is a factor for consideration when using symbols in documents for a global audience?
-    -Use of symbols can result in unintended consequences
-    -Symbols add little value to technical documents
-    -Shapes such as circles or squares are too simple to add any value
-    -Symbols can confuse readers of documents not in their first language
+    -Use of symbols can result in unintended consequences(cultural confusion)
 -Which of the following are major patterns of arrangement for a section of a document?
     1. Cause and effect
     2. Chronological order
     3. Comparison and contrast
     4. Mandatory and optional
         -1, 2, 3
-        -1, 2, 4
-        -1, 3, 4
-        -2, 3, 4
 -According to Johnson Sheehan, which of the following statements about project outcomes and deliverables are true?
     1. Project outcomes are the visible and measurable results of the team’s efforts.
     2. Deliverables are the real products or services that you will deliver to clients upon a project’s completion.
-        -Only 1 is true
-        -Only 2 is true
         -Both 1 and 2 are true
-        -Neither 1 or 2 is true
 -Which of the following is NOT a benefit of using reader profiles for technical communication?
     -Provides information on how readers will use the document
     -Helps with the presentation of the same information to different audiences
-    -Provides a visual way of presenting ideas and understanding their logical relationships
+    +Provides a visual way of presenting ideas and understanding their logical relationships
     -Helps determine suitable pattern of arrangements for the body of the document
 -When strategically planning the work of a technical documentation team, in what sequence are the following typically undertaken?
     1. Create a list of tasks
     2. Develop a timeline
     3. Set objectives
-        -1, 2, 3
-        -2, 3, 1
-        -2, 1, 3
         -3, 1, 2
