@@ -6,23 +6,29 @@
 key: value
 object: 
   string: value
+  specialcharacters: "[]{}@#$%^&<>"
   number: 1
   boolean: true
+  null: null
+  yes: no
   array:
     - array
     - array
     - 1
     - true
-
+        
 string: >
   this is a string
 
   that goes many lines
 
 string: |-
-  this 
-  is a
-  string
+  this is a block 
+  without a trailing line
+
+string: |+
+  this is a block 
+  with a tailing line
 
 ---
 
