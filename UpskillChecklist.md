@@ -15,7 +15,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] GitHub
     - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
     - [X] [Issues](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Issues.txt)
-    - [ ] Conventions
+    - [ ] [Conventions](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/GitHubConventions.txt)
 #### [Data Formats](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats) and [Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/MarkupLanguages)
 - [ ] Data Formats
     - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/Json.json)
@@ -28,7 +28,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 #### [Technical Writing](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/TechnicalWriting)
 - [ ] [<i> Docs Like Code</i>, Anne Gentle](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/DocsLikeCode.txt)
 - [ ] [CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/Certification.txt)
-- [ ] Technical Writing Styles
+- [ ] [Technical Writing Styles](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/TechnicalWritingStyles.txt)
 #### Documentation Tools
 - [ ] Swagger
 - [ ] JavaDocs
