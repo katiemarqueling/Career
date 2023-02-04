@@ -1,0 +1,63 @@
+# comment
+
+--- 
+# ^ separate documents
+
+key: value
+object: 
+  string: value
+  number: 1
+  boolean: true
+  array:
+    - array
+    - array
+    - 1
+    - true
+
+string: >
+  this is a string
+
+  that goes many lines
+
+string: |-
+  this 
+  is a
+  string
+
+---
+
+LivesInOurCondo:
+  christoph:
+    name: christoph
+    human: true
+    age: 24
+    hobbies:
+      - video games
+      - bread making
+      - stamps
+  katie:
+    name: katie
+    humn: true
+    age: 23
+    hobbies:
+      - baking
+      - hiking
+      - knitting
+  tendy:
+    name: Tendy
+    human: false
+    age: 3
+    hobbies: 
+      - sleeping
+      - eating
+      - playing
+  gwart:
+    name: gwart
+    human: false
+    age: 1
+    hobbies:
+      - eating crickets
+      - hiding in log
+      - being a frog
+
+
