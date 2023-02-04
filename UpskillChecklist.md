@@ -19,8 +19,8 @@ If you work in technology and have any advice on skills to add to this list, ple
 #### [Data Formats](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats) and [Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/MarkupLanguages)
 - [ ] Data Formats
     - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/Json.json)
-    - [ ] YAML
-    - [ ] XML
+    - [ ] [YAML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/YAML.xml)
+    - [ ] [XML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/XML.xml)
 - [ ] Markups
     - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/Markdown.md)
     - [X] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/LifeofTendy.html)
