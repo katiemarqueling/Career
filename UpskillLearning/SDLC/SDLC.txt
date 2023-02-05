@@ -44,3 +44,7 @@ Software Development Life Cycle (SDLC)
     -V-model
     -Waterfall
 
+-Best Practices
+    -Source Control
+    -Continuous Integration
+

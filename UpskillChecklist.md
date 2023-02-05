@@ -6,7 +6,6 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [X] [Basics and Phases](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/SDLC.txt) 
 - [X] [Agile](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Agile.txt)
 - [X] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Waterfall.txt)
-- [ ] [Best Practices](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/BestPractices.txt)
 #### [Version Control](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/VersionControl)
 - [ ] [Git](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Git.txt)
     - [X] Commits
