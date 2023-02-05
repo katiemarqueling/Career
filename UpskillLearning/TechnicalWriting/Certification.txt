@@ -8,8 +8,8 @@ STC Certification Notes
     -Revising and Editing
 -Key facts about readers and reader profiles 
     -What a reader profile is
-        - A reader profile is a n analysis of your reader's specific needs, backgrounds, abilities, and expereinces. Developing a profile of your readers will 
-            give you helpful insight into how they will react to your ideas and how thet will use your document. 
+        - A reader profile is a n analysis of your reader's specific needs, backgrounds, abilities, and expereinces Developing a profile of your readers will 
+            give you helpful insight into how they will react to your ideas and how thet will use your document
     -The names of the four types of readers
         -Primary (action takes: need to make a decison based on the information you are giving them)
         -Secondary (advisors: experts that infulence decisions)
@@ -17,10 +17,10 @@ STC Certification Notes
         -Gatekeepers (supervisors: review and approve before sent to primary)
 -The rhetorical situation and how readers and context is defined:
     -The four elements of the rhetorical situation
-        -
-        -
-        -
-        -
+        -subject
+        -purpose
+        -readers
+        -context of use
     -Three primary motives
         -Needs: what does the type of reader need to make their decision
         -Values: effiency, consistence, accuracy, profit, enviromental or social concern
@@ -38,10 +38,10 @@ STC Certification Notes
         -Avoid humor
         -Talk to your colleagues
     -Four aspects of a document that may need to be adjusted
-        -
-        -
-        -
-        -
+        -subject
+        -purpose
+        -readers
+        -context of use
 -What technical genres are and how they are used 
     -Letter, Memos and E-mail 
     -Technical Descriptions and Specifications 
@@ -51,13 +51,18 @@ STC Certification Notes
     -Analytical Reports
 -The sources used for research and the different kinds of evidence
     -The different types of primary and secondary sources of evidence
-        -primary: evidence collected from observations, experimentrs, surveys, interviews, ethnographies, and testing
-        -secondary: evidence drawn from acadamic journals, magazine articles, books, websites, research databases, DVDs, 
+        -primary: evidence collected from observations, experimentrs, surveys, interviews, 
+            ethnographies, and testing
+        -secondary: evidence drawn from acadamic journals, magazine articles, books, websites, 
+            research databases, DVDs, 
             CDs, and reference materials
     -The three kinds of evidence solid research draws on: 
-        -Electronic: websites, televison and radio, research databases, image databases, podcast, videos, blogs
-        -Print: books, journals, magazines and newspapers, government publication, atlases, reference materials, microform/microfiche, press material
-        -Empirical: experiments, field observations, interviews, surveys and questionnaries, ethnographies, case studies, archives
+        -Electronic: websites, televison and radio, research databases, image databases, podcast, 
+            videos, blogs
+        -Print: books, journals, magazines and newspapers, government publication, atlases, 
+            reference materials, microform/microfiche, press material
+        -Empirical: experiments, field observations, interviews, surveys and questionnaries, 
+            ethnographies, case studies, archives
 -Introduction of a document
     -The six opening moves in order
         -Define yout subjects
@@ -105,12 +110,13 @@ STC Certification Notes
         -point sentence
 -Key facts about the different writing styles 
     -When it is appropriate to use plain writing style 
-        -
+        -Plain style stresses clear wording and simple prose. It is often used to instruct, teach, 
+            or present infomration. Plain style works best in documents like technical description, 
+            instructions, and activity reports. 
     -When it is appropriate to use persuasive writing style 
-        -
-    -The differences between the plain and persuasive writing styles 
-        -
-        -
+        -There are times when you need to influence people to accept your ideas and take action. 
+            In these situations, persuasive style allows you to add energy and vision to your writing and 
+            speaking. This style works best with proposal, letters, articles, public presentation, and reports. 
     -The four persuasion techniques: 
         -Elevate the tone 
         -Use similes and analogies 
@@ -123,7 +129,7 @@ STC Certification Notes
         -Links should reflect titles
         -Create a consistent tone
     -The writing strategies for improving the readability of websites for global audiences
-        -
+        -layout, graphics, and multimedia
 -Key facts about visual design:
     -The five principles of visual design 
         -Balance
@@ -174,17 +180,30 @@ STC Certification Notes
         -Can they do it?
         -Is it safe?
 -The common copyediting symbols and what they mean
-    -
--The four stages of forming a work team and their sequence (according to Tuckman). 
+    -https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/CopyeditingSymbols.png
+-The four stages of forming a work team and their sequence (according to Tuckman)
+    -Forming
+    -Storming
+    -Norming
+    -Preforming
+    -Adjourning
 -Key facts about writing for websites: 
-    -The basic features of a website and how they are navigated by the reader 
+    -The basic features of a website and how they are navigated by the reader
+        -home page: main page of the site
+        -node pages: links
+        -pages: individual pages that contain the facts, details, images, and other information 
+            that readers are seeking
+        -navigation pages:search engine or site map
     -The guidelines for determining the number of levels needed in a website 
+        -a maximum of three links for the most important information
+        -a maximum of five links for 80 percent of all information
+        -a maximum of seven links for all information
 -The different types of websites used in the workplace and what they are the commonly used for: 
-    -Social networks 
-    -Wikis 
-    -Blogs 
-    -Microblogs 
-    -Video and podcasts
+    -Social networks: raise awareness
+    -Wikis: keeping documentation and specification up to date and providing customer service
+    -Blogs: build a brand, communicate with the public
+    -Microblogs: build a brand, communicate with the public
+    -Video and podcasts: build awareness about company and its products (inexpensive)
 
 
 ---
