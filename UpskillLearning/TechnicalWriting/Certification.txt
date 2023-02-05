@@ -122,26 +122,59 @@ STC Certification Notes
         -Keep paragraphs short 
         -Links should reflect titles
         -Create a consistent tone
-    -The writing strategies for improving the readability of websites for global audiences 
+    -The writing strategies for improving the readability of websites for global audiences
+        -
 -Key facts about visual design:
     -The five principles of visual design 
+        -Balance
+        -Alignment
+        -Grouping
+        -Consistency
+        -Contrast
     -Why good visual design is important for technical communication
+        -allows readers to (1) easily scan documents, 
+        -(2) access the document to find the information they need, 
+        -(3) understand the content more readily, 
+        -and (4) appreciate the appearance of the document
     -The four different visual design considerations for culturally shallow documents
+        -use of color
+        -use of people
+        -use of symbols
+        -direction of reading
 -The four guidelines for using graphics in documents
+    -A graphic should tell a simple story
+    -A graphic should reinforce the written text, not replace it
+    -A graphic should be ethical 
+    -A graphic should be labeled and placed properly
 -The special considerations that apply when working with visuals in a presentation:
     -Choosing formats
     -Choosing fonts
     -Using graphics 
 -Key facts about editing a document: 
     -The names of the four levels of editing
+        -Revising
+        -Substantive editing
+        -Copyediting
+        -Proofreading
     -How to determine the appropriate level of edit for a document 
--The importance of: 
-    -Document cycling 
-    -Usability testing
+        -how much time you have
+        -the quality needed in the document
+-The importance of: gain an outside prespective
+    -Document cycling: others at your company look over your draft
+    -Usability testing: trying out your document on real readers
 -Key facts about usability testing:
     -The types of usability testing used in evaluating technical writing products 
+        -read-and-locate
+        -understandability
+        -performance
+        -safety
     -The four questions used to help design usability tests 
+        -Can they find it?
+        -Can they understand it?
+        -Can they do it?
+        -Is it safe?
 -The common copyediting symbols and what they mean
+    -
 -The four stages of forming a work team and their sequence (according to Tuckman). 
 -Key facts about writing for websites: 
     -The basic features of a website and how they are navigated by the reader 
