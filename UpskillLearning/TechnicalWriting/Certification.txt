@@ -1,29 +1,5 @@
 STC Certification Notes
 
--Six questions that will help you to assess your audience and their context
-    -audience expectations
-    -knowledge of topic
-    -attitude toward topic
-    -audience size
-    -demographics
-    -setting
-    -voluntariness
-    -egocentrism
--The five phases of a technical communication project
-    -plan
-    -structure
-    -write
-    -review
-    -publish
--The four phases of team-building
-    -forming
-    -storming
-    -norming
-    -preforming
--The most common types of technical documents and components of each
--Techniques for testing your documents
--Key principles of visual design
--Techniques for gathering, organizing, and validating source materia
 -The five stages of the technical writing process and how they are followed
     -Planning and Researching
     -Organizing and Drafting
@@ -31,38 +7,81 @@ STC Certification Notes
     -Designing
     -Revising and Editing
 -Key facts about readers and reader profiles 
-    -What a reader profile is 
+    -What a reader profile is
+        - A reader profile is a n analysis of your reader's specific needs, backgrounds, abilities, and expereinces. Developing a profile of your readers will 
+            give you helpful insight into how they will react to your ideas and how thet will use your document. 
     -The names of the four types of readers
-        -Primary
-        -Secondary
-        -Tertiary
-        -Gatekeepers 
+        -Primary (action takes: need to make a decison based on the information you are giving them)
+        -Secondary (advisors: experts that infulence decisions)
+        -Tertiary (evaluators: will make outside judgements about works; news, companies competitors)
+        -Gatekeepers (supervisors: review and approve before sent to primary)
 -The rhetorical situation and how readers and context is defined:
     -The four elements of the rhetorical situation
-    -Three aspects that determine how readers make decision
-        -Needs
-        -Values
-        -Attitudes
+        -
+        -
+        -
+        -
+    -Three primary motives
+        -Needs: what does the type of reader need to make their decision
+        -Values: effiency, consistence, accuracy, profit, enviromental or social concern
+        -Attitudes: what do they think of you, how will they feel about what you are telling them
     -Four contexts of document use
-        -Physical
-        -Economic
-        -Political
-        -Ethical
+        -Physical: where will the readers use your document
+        -Economic: econic issues that will infuence readers decision, costs and benefits of your idea,
+        -Ethical: the personal, social, and enviromental issues that shape the readers
+        -Mobile/Political: how a document will be viewed on various media
 -How to work with global audience
     -The five helpful strategies
-    -Four aspects of a document that may need to be adjusted 
+        -Listen carefully
+        -Be polite
+        -research the target culture
+        -Avoid humor
+        -Talk to your colleagues
+    -Four aspects of a document that may need to be adjusted
+        -
+        -
+        -
+        -
 -What technical genres are and how they are used 
+    -Letter, Memos and E-mail 
+    -Technical Descriptions and Specifications 
+    -Instructions and Documentation 
+    -Proposals
+    -Activity Reports 
+    -Analytical Reports
 -The sources used for research and the different kinds of evidence
-    -The different types of primary and secondary sources of evidence 
+    -The different types of primary and secondary sources of evidence
+        -primary: evidence collected from observations, experimentrs, surveys, interviews, ethnographies, and testing
+        -secondary: evidence drawn from acadamic journals, magazine articles, books, websites, research databases, DVDs, 
+            CDs, and reference materials
     -The three kinds of evidence solid research draws on: 
-        -Electronic
-        -Print
-        -Empirical
+        -Electronic: websites, televison and radio, research databases, image databases, podcast, videos, blogs
+        -Print: books, journals, magazines and newspapers, government publication, atlases, reference materials, microform/microfiche, press material
+        -Empirical: experiments, field observations, interviews, surveys and questionnaries, ethnographies, case studies, archives
 -Introduction of a document
-    -The six opening moves
-    -How to organise the opening moves
+    -The six opening moves in order
+        -Define yout subjects
+        -State your purpose
+        -State your main point
+        -Stress the importance of the subject
+        -Provide background information
+        -Forecast the content
 -The major patterns of arrangement for the body of a document and how they are used
+    -cause and efffect
+    -comparison and contrast
+    -better and worse
+    -costs and benefits
+    -if... technical
+    -either... or
+    -chronological order
+    -problem/needs/solution
+    -example
 -The five closing moves in a conclusion
+    -make an obvious transition
+    -restate your main point
+    -reemphasize the importance of the subject
+    -look to the future
+    -say thank you and offer contact information
 -Typical patterns for organising each of the six technical genres:
     -Letter, Memos and E-mail 
     -Technical Descriptions and Specifications 
@@ -72,11 +91,26 @@ STC Certification Notes
     -Analytical Reports
 -Key facts about writing plain sentences:
     -The eight guidelines for writing plain sentences
+        -make the subject of the sentence what the sentence is about 
+        -use the "doer" as the subject of the sentence
+        -use a verb to express the action, or what the doer is doing 
+        -put the subject of the sentence early in the sentence-eliminate nominalizations
+        -eliminate excessive prepositional phrases
+        -eliminate redundancy in sentences
+        -write sentences that are "breathing length"
     -The four types of sentences used in paragraphs
+        -transitional sentence
+        -topic sentence
+        -support sentence
+        -point sentence
 -Key facts about the different writing styles 
     -When it is appropriate to use plain writing style 
+        -
     -When it is appropriate to use persuasive writing style 
+        -
     -The differences between the plain and persuasive writing styles 
+        -
+        -
     -The four persuasion techniques: 
         -Elevate the tone 
         -Use similes and analogies 
@@ -119,6 +153,8 @@ STC Certification Notes
     -Microblogs 
     -Video and podcasts
 
+
+---
 -What is an editor on a technical communication team typically responsible for?
     -Evaluating missing content areas and how information is organized
 -Which of the following statements are correct guidelines for writing plain sentences?

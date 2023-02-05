@@ -3,10 +3,9 @@ Hi! Below you will find a checklist of the skills I am learning to become a more
 If you work in technology and have any advice on skills to add to this list, please open an issue. If you are a recruiter and would like to contact me about open jobs, you can reach me at katie@marqueling.com.
 
 #### [SDLC](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/SDLC)
-- [X] [Basics and Phases](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/SDLC.txt)
-- [ ] [Models](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Models.txt)
-    - [X] [Agile](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Agile.txt)
-    - [X] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Waterfall.txt)
+- [X] [Basics and Phases](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/SDLC.txt) 
+- [X] [Agile](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Agile.txt)
+- [X] [Waterfall](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/Waterfall.txt)
 - [ ] [Best Practices](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/SDLC/BestPractices.txt)
 #### [Version Control](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/VersionControl)
 - [ ] [Git](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Git.txt)
@@ -17,10 +16,10 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [X] [Issues](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Issues.txt)
     - [ ] [Conventions](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/GitHubConventions.txt)
 #### [Data Formats](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats) and [Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/MarkupLanguages)
-- [ ] Data Formats
+- [X] Data Formats
     - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/Json.json)
     - [X] [YAML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/YAML.yml)
-    - [ ] [XML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/XML.xml)
+    - [X] [XML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/XML.xml)
 - [ ] Markups
     - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/Markdown.md)
     - [X] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/LifeofTendy.html)
@@ -47,6 +46,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Scalability/Resiliency
 - [ ] Infrastructure as Code
 #### Dev Tools
+- [ ] Stack Overflow
 - [ ] VsCode
 - [ ] Other IDEs
 - [ ] SSH and Key Management
