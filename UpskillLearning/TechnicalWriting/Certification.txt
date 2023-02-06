@@ -313,7 +313,6 @@ STC Certification Notes
     -Bar chart: show quantities for visual comparisans
     -Flowchart: illisturate insturction, not replace
     -Table: complex, might clog document, difficult to locate specific information
-    -Gantt Chart:
     -Icon and clip art: distracting decorative fluffy 
     -Symbols: enhace traslation and comprehension, use internationally accepted symbols
     -Line drawings: to highlight the main features of a piece of machinery
