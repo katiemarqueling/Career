@@ -43,12 +43,12 @@ STC Certification Notes
         -readers
         -context of use
 -What technical genres are and how they are used 
-    -Letter, Memos and E-mail 
-    -Technical Descriptions and Specifications 
-    -Instructions and Documentation 
-    -Proposals
-    -Activity Reports 
-    -Analytical Reports
+    -Letter, Memos and E-mail: correspondence
+    -Technical Descriptions and Specifications: describe products in precise detail for manufacturing and marketing
+    -Instructions and Documentation: how to complete task
+    -Proposals: pitch of a plan to solve a problem
+    -Activity/Brief Reports: objectively inform about what happened, what is happening, and what will happen
+    -Analytical/Formal Reports: most common, describes research methodolody, presents results, analyzes results, and makes recommendations
 -The sources used for research and the different kinds of evidence
     -The different types of primary and secondary sources of evidence
         -primary: evidence collected from observations, experimentrs, surveys, interviews, 
@@ -74,12 +74,12 @@ STC Certification Notes
         -Provide background information
         -Forecast the content
 -The major patterns of arrangement for the body of a document and how they are used
-    -cause and efffect
+    -cause and efffect: X is caused by Y
     -comparison and contrast
-    -better and worse
-    -costs and benefits
-    -if... technical
-    -either... or
+    -better and worse: X is better/worse than Y
+    -costs and benefits: benefits (X) outweighs the cost (Y)
+    -if... then: if you believe in X, then you should also believe in Y
+    -either... or: either you believe in X, or you belive in Y
     -chronological order
     -problem/needs/solution
     -example
@@ -91,11 +91,39 @@ STC Certification Notes
     -say thank you and offer contact information
 -Typical patterns for organising each of the six technical genres:
     -Letter, Memos and E-mail 
+        -introduction with a purpose and main point
+        -body that provides need-yto-know information
+        -conclusion that restates the main point
     -Technical Descriptions and Specifications 
+        -specific title
+        -introduction with an overall description
+        -description by features, functions, or stages
+        -description that senses, similes, analogies, and metaphors
+        -conclusion
     -Instructions and Documentation 
+        -specific and presice titles
+        -introduction
+        -list of pars, tools, and conditions required
+        -sequentiially ordered steps
+        -safety information
+        -conclusion that signals completion of task
+        -user-testing your document
     -Proposals
+        -writing the introduction
+        -describing the current situatiuon
+        -describing the project plan
+        -describing qualifications
+        -concluding with cost and benefits
     -Activity Reports 
+        -introduction
+        -body
+        -conclusion
     -Analytical Reports
+        -introduction
+        -describing your methodology
+        -summarizing the results of study
+        -discussing your results
+        -concluding with recommendation
 -Key facts about writing plain sentences:
     -The eight guidelines for writing plain sentences
         -make the subject of the sentence what the sentence is about 
@@ -107,9 +135,9 @@ STC Certification Notes
         -eliminate redundancy in sentences
         -write sentences that are "breathing length"
     -The four types of sentences used in paragraphs
-        -transitional sentence
-        -topic sentence
-        -support sentence
+        -transitional sentence: gap between two sentences
+        -topic sentence: claim or statement rest of paragraph is going to support
+        -support sentence: bulk, prove claim, (examples, facts, data, reasoning...)
         -point sentence: positioned to create a link from one topic to the next
 -Key facts about the different writing styles 
     -When it is appropriate to use plain writing style 
@@ -119,27 +147,27 @@ STC Certification Notes
     -When it is appropriate to use persuasive writing style 
         -There are times when you need to influence people to accept your ideas and take action. 
             In these situations, persuasive style allows you to add energy and vision to your writing and 
-            speaking. This style works best with proposal, letters, articles, public presentation, and reports. 
+            speaking. This style works best with proposal, letters, articles, public presentation, and reports.
     -The four persuasion techniques: 
-        -Elevate the tone 
+        -Elevate the tone": trick inner voices emotion
         -Use similes and analogies: help the reader to understand difficult concepts
-        -Use metaphors 
-        -Change the pace 
+        -Use metaphors: create or reinforce a particular perspective that you want readers to adopt toward your subjects or ideas
+        -Change the pace: change intensity of the document
 -The writing strategies for improving the style and design of websites 
     -The four strategies for improving the writing style on websites and why these are useful:
-        -Keep sentences short 
-        -Keep paragraphs short 
-        -Links should reflect titles
-        -Create a consistent tone
+        -Keep sentences short: shorter than sentences on paper
+        -Keep paragraphs short: see paragraph in a glance
+        -Links should reflect titles: page name and link the same
+        -Create a consistent tone: tone reflects topic
     -The writing strategies for improving the readability of websites for global audiences
         -layout, graphics, and multimedia
 -Key facts about visual design:
     -The five principles of visual design 
         -Balance: offset the design features on a page to balance itema on both sides of the page
         -Alignment: structure the text so the hierarchy of information is clear
-        -Grouping
-        -Consistency
-        -Contrast
+        -Grouping: put like things together
+        -Consistency: each page look the same for better navigation
+        -Contrast: sharpen boundaries between text and background/headings/images
     -Why good visual design is important for technical communication
         -allows readers to (1) easily scan documents, 
         -(2) access the document to find the information they need, 
@@ -177,14 +205,11 @@ STC Certification Notes
         -read and locate
         -surveying
         -focus groups
-        -
     -The four questions used to help design usability tests 
         -Can they find it?
         -Can they understand it?
         -Can they do it?
         -Is it safe?
--The common copyediting symbols and what they mean
-    -https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/CopyeditingSymbols.png
 -The four stages of forming a work team and their sequence (according to Tuckman)
     -Forming
     -Storming
@@ -207,8 +232,6 @@ STC Certification Notes
     -Blogs: build a brand, communicate with the public
     -Microblogs: build a brand, communicate with the public
     -Video and podcasts: build awareness about company and its products (inexpensive)
-
-
 ---
 -What is an editor on a technical communication team typically responsible for?
     -Evaluating missing content areas and how information is organized
@@ -259,8 +282,6 @@ STC Certification Notes
     -Consult a relevant literature review
 -Subject-verb disagreement
     -All members of the team prefroms setisfactorily
--Line drawings:
-    -To highlight the main features of a piece of machinery
 -When would a progress report usually be produced:
     -At regular intervals as agreed with management
 -Why are handouts useful as a visual aid for presentations
@@ -268,20 +289,31 @@ STC Certification Notes
 -What are the likely implications of changing the citation styles used in a document
     -Both the in-text citation and the reference list need checking
 -Inventing new ideas:
-    -Outlining/boxing
-    -Freewriting
-    -Logical/concept mapping: id major steps and break down into minor steps, how are we going to achieve this purpose?
-    -Journalists questions/ the 5 w and how quesitons
+    -Outlining/boxing: what is taught in school
+    -Freewriting: just start typing
+    -Logical/concept mapping: id major steps and break down into minor steps, how are we going to achieve this purpose? (visualize)
+    -Journalists questions/ the 5 w and how quesitons: give an answer to each
 -Levels of editing
-    -1: has the purpose of the document changed since it was started
-    -
-    -
+    -1: Revising: has the purpose of the document changed since it was started
+    -2: Substantive: context, organization, and design
+    -3: Copyediting: style for clarity, persuasion, and consistency (sentence and paragraph level)
+    -4: Proofreading: grammatical mistakes, misspellings, and usage problems
 -Guidlines for wokring with visuals in a presentation
     -Keep tables small and simple
     -Use lists instead of paragraphs and sentences
     -Put five or fewer items on a slide
-    -
+    -title each slide with an action oriented headings
+    -text to the left
+    -use icons and graphs
 -Why is triangulation of sorces important?
     -Compares evidence from a variety of print, electronic and empirical sources
 -Charts
-    -Pie: take a significant amount of space for relatively small amounts of data
+    -Pie Chart: take a significant amount of space for relatively small amounts of data
+    -Line Graph: change in measurements over time
+    -Bar chart: show quantities for visual comparisans
+    -Flowchart: illisturate insturction, not replace
+    -Table: complex, might clog document, difficult to locate specific information
+    -Gantt Chart:
+    -Icon and clip art: distracting decorative fluffy 
+    -Symbols: enhace traslation and comprehension, use internationally accepted symbols
+    -Line drawings: to highlight the main features of a piece of machinery
