@@ -63,6 +63,8 @@ STC Certification Notes
             reference materials, microform/microfiche, press material
         -Empirical: experiments, field observations, interviews, surveys and questionnaries, 
             ethnographies, case studies, archives
+                -Quantitative research generates statical data for analysis
+                -Qualitative research identifies a pattern of behavior
 -Introduction of a document
     -The six opening moves in order
         -Define yout subjects
@@ -99,7 +101,8 @@ STC Certification Notes
         -make the subject of the sentence what the sentence is about 
         -use the "doer" as the subject of the sentence
         -use a verb to express the action, or what the doer is doing 
-        -put the subject of the sentence early in the sentence-eliminate nominalizations
+        -put the subject of the sentence early in the sentence
+        -eliminate nominalizations
         -eliminate excessive prepositional phrases
         -eliminate redundancy in sentences
         -write sentences that are "breathing length"
@@ -107,7 +110,7 @@ STC Certification Notes
         -transitional sentence
         -topic sentence
         -support sentence
-        -point sentence
+        -point sentence: positioned to create a link from one topic to the next
 -Key facts about the different writing styles 
     -When it is appropriate to use plain writing style 
         -Plain style stresses clear wording and simple prose. It is often used to instruct, teach, 
@@ -119,7 +122,7 @@ STC Certification Notes
             speaking. This style works best with proposal, letters, articles, public presentation, and reports. 
     -The four persuasion techniques: 
         -Elevate the tone 
-        -Use similes and analogies 
+        -Use similes and analogies: help the reader to understand difficult concepts
         -Use metaphors 
         -Change the pace 
 -The writing strategies for improving the style and design of websites 
@@ -132,8 +135,8 @@ STC Certification Notes
         -layout, graphics, and multimedia
 -Key facts about visual design:
     -The five principles of visual design 
-        -Balance
-        -Alignment
+        -Balance: offset the design features on a page to balance itema on both sides of the page
+        -Alignment: structure the text so the hierarchy of information is clear
         -Grouping
         -Consistency
         -Contrast
@@ -169,11 +172,12 @@ STC Certification Notes
     -Document cycling: others at your company look over your draft
     -Usability testing: trying out your document on real readers
 -Key facts about usability testing:
+    -tracking staff members as they follow instructions for a new process on a test system
     -The types of usability testing used in evaluating technical writing products 
-        -read-and-locate
-        -understandability
-        -performance
-        -safety
+        -read and locate
+        -surveying
+        -focus groups
+        -
     -The four questions used to help design usability tests 
         -Can they find it?
         -Can they understand it?
@@ -186,7 +190,6 @@ STC Certification Notes
     -Storming
     -Norming
     -Preforming
-    -Adjourning
 -Key facts about writing for websites: 
     -The basic features of a website and how they are navigated by the reader
         -home page: main page of the site
@@ -252,3 +255,33 @@ STC Certification Notes
     2. Develop a timeline
     3. Set objectives
         -3, 1, 2
+-Best approach for checking wether scientific sources are up to date?
+    -Consult a relevant literature review
+-Subject-verb disagreement
+    -All members of the team prefroms setisfactorily
+-Line drawings:
+    -To highlight the main features of a piece of machinery
+-When would a progress report usually be produced:
+    -At regular intervals as agreed with management
+-Why are handouts useful as a visual aid for presentations
+    -Enables the presenter to circulate detailed technical data to re-enforce key points
+-What are the likely implications of changing the citation styles used in a document
+    -Both the in-text citation and the reference list need checking
+-Inventing new ideas:
+    -Outlining/boxing
+    -Freewriting
+    -Logical/concept mapping: id major steps and break down into minor steps, how are we going to achieve this purpose?
+    -Journalists questions/ the 5 w and how quesitons
+-Levels of editing
+    -1: has the purpose of the document changed since it was started
+    -
+    -
+-Guidlines for wokring with visuals in a presentation
+    -Keep tables small and simple
+    -Use lists instead of paragraphs and sentences
+    -Put five or fewer items on a slide
+    -
+-Why is triangulation of sorces important?
+    -Compares evidence from a variety of print, electronic and empirical sources
+-Charts
+    -Pie: take a significant amount of space for relatively small amounts of data
