@@ -6,8 +6,7 @@ Merge/Pull Request Notes
     - Copy Link
     - git clone link
 - Making a Branch
-    - git branch newbranchname
-    - git checkout newbranchname
+    - git checkout -b newbranchname
 - Make Changes
 - Push to Remote
     - git add .
