@@ -41,12 +41,7 @@ Examples
 |1    |Item 1     |a
 |2    |Item 2     |b
 |3    |Item 3     |c
-|=======================
-
-TIP: Tip
-IMPORTANT: Important 
-WARNING: Warning
-CAUTION: Caution 
+|======================= 
 
 [red]#red text# 
 [yellow-background]#on yellow#
