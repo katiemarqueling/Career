@@ -38,11 +38,11 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Development
 - [ ] Production
 - [ ] DevOps
-#### Cloud Concepts
-- [ ] Core Concepts (Pros/Cons)
-- [ ] Major Providers
-- [ ] Severless Concepts
-- [ ] Scalability/Resiliency
+#### [Cloud Concepts](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/CloudConcepts.txt)
+- [X] Core Concepts (Pros/Cons)
+- [X] Major Providers
+- [X] Severless Concepts
+- [X] Scalability/Resiliency
 - [ ] Infrastructure as Code
 #### Dev Tools
 - [ ] Stack Overflow
