@@ -10,10 +10,10 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] [Git](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Git.txt)
     - [X] Commits
     - [ ] Branches
-- [ ] GitHub
-    - [ ] [Merge](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/MergeRequest.txt)/[Pull Request](https://github.com/the-germanator/learn-git)
-    - [X] [Issues](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/Issues.txt)
-    - [ ] [Conventions](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/GitHubConventions.txt)
+- [ ] [GitHub](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/GitHub.txt)
+    - [ ] [Merge/Pull Request](https://github.com/the-germanator/learn-git)
+    - [X] Issues
+    - [ ] Conventions
 #### [Data Formats](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats) and [Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/MarkupLanguages)
 - [X] Data Formats
     - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/Json.json)
