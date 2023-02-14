@@ -7,11 +7,11 @@ STC Certification Notes
     - Designing
     - Revising and Editing
 - What a reader profile is
-    - A reader profile is an analysis of your reader's specific needs, backgrounds, abilities, and expereinces. Developing a profile of 
-      your readers will give you helpful insight into how they will react to your ideas and how thet will use your document.
+    - A reader profile is an analysis of your reader's specific needs, backgrounds, abilities, and experiences. Developing a profile of 
+      your readers will give you helpful insight into how they will react to your ideas and how they will use your document.
 - The names of the four types of readers
-    - Primary (action takes: need to make a decison based on the information you are giving them)
-    - Secondary (advisors: experts that infulence decisions)
+    - Primary (action takes: need to make a decision based on the information you are giving them)
+    - Secondary (advisors: experts that influence decisions)
     - Tertiary (evaluators: will make outside judgements about works; news, companies competitors)
     - Gatekeepers (supervisors: review and approve before sent to primary)
 - The four elements of the rhetorical situation
@@ -21,12 +21,12 @@ STC Certification Notes
     - context of use
 - Three primary motives
     - Needs: what does the type of reader need to make their decision
-    - Values: effiency, consistence, accuracy, profit, and enviromental or social concern
+    - Values: efficiency, consistence, accuracy, profit, and environmental or social concern
     - Attitudes: what do they think of you, how will they feel about what you are telling them
 - Four contexts of document use
     - Physical: where will the readers use your document
-    - Economic: econic issues that will infuence readers decision, costs and benefits of your idea
-    - Ethical: the personal, social, and enviromental issues that shape the readers
+    - Economic: economic issues that will inlfuence readers decision, costs and benefits of your idea
+    - Ethical: the personal, social, and environmental issues that shape the readers
     - Mobile/Political: how a document will be viewed on various media
 - The five helpful strategies to work with global audience    
     - Listen carefully
@@ -40,30 +40,30 @@ STC Certification Notes
     - Instructions and Documentation: how to complete task
     - Proposals: pitch of a plan to solve a problem
     - Activity/Brief Reports: objectively inform about what happened, what is happening, and what will happen
-    - Analytical/Formal Reports: most common, describes research methodolody, presents results, analyzes results, and makes recommendations
+    - Analytical/Formal Reports: most common, describes research methodology, presents results, analyzes results, and makes recommendations
 - The different types of primary and secondary sources of evidence
-    - primary: evidence collected from observations, experimentrs, surveys, interviews, ethnographies, and testing
-    - secondary: evidence drawn from acadamic journals, magazine articles, books, websites, research databases, DVDs, CDs, and reference materials
+    - primary: evidence collected from observations, experiments, surveys, interviews, ethnographies, and testing
+    - secondary: evidence drawn from academic journals, magazine articles, books, websites, research databases, DVDs, CDs, and reference materials
 - The three kinds of evidence solid research draws on: 
-    - Electronic: websites, televison and radio, research databases, image databases, podcast, videos, blogs
+    - Electronic: websites, television and radio, research databases, image databases, podcast, videos, blogs
     - Print: books, journals, magazines and newspapers, government publication, atlases, reference materials, microform/microfiche, press material
-    - Empirical: experiments, field observations, interviews, surveys and questionnaries,ethnographies, case studies, archives
-        - Quantitative research generates statical data for analysis
+    - Empirical: experiments, field observations, interviews, surveys and questionnaires,ethnographies, case studies, archives
+        - Quantitative research generates statistical data for analysis
         - Qualitative research identifies a pattern of behavior
 - The six opening moves to introduce a document (in order)
-    - Define yout subjects
+    - Define your subjects
     - State your purpose
     - State your main point
     - Stress the importance of the subject
     - Provide background information
     - Forecast the content
 - The major patterns of arrangement for the body of a document and how they are used
-    - cause and efffect: X is caused by Y
+    - cause and effect: X is caused by Y
     - comparison and contrast
     - better and worse: X is better/worse than Y
     - costs and benefits: benefits (X) outweighs the cost (Y)
     - if... then: if you believe in X, then you should also believe in Y
-    - either... or: either you believe in X, or you belive in Y
+    - either... or: either you believe in X, or you believe in Y
     - chronological order
     - problem/needs/solution
     - example
@@ -73,10 +73,10 @@ STC Certification Notes
     - reemphasize the importance of the subject
     - look to the future
     - say thank you and offer contact information
-- Typical patterns for organising each of the six technical genres:
+- Typical patterns for organizing each of the six technical genres:
     - Letter, Memos and E-mail 
         - introduction with a purpose and main point
-        - body that provides need-yto-know information
+        - body that provides need-to-know information
         - conclusion that restates the main point
     - Technical Descriptions and Specifications 
         - specific title
@@ -85,16 +85,16 @@ STC Certification Notes
         - description that senses, similes, analogies, and metaphors
         - conclusion
     - Instructions and Documentation 
-        - specific and presice titles
+        - specific and precise titles
         - introduction
-        - list of pars, tools, and conditions required
-        - sequentiially ordered steps
+        - list of parts, tools, and conditions required
+        - sequentially ordered steps
         - safety information
         - conclusion that signals completion of task
         - user-testing your document
     - Proposals
         - writing the introduction
-        - describing the current situatiuon
+        - describing the current situation
         - describing the project plan
         - describing qualifications
         - concluding with cost and benefits
@@ -124,14 +124,14 @@ STC Certification Notes
     - point sentence: positioned to create a link from one topic to the next
 - When it is appropriate to use plain writing style 
     - Plain style stresses clear wording and simple prose. It is often used to instruct, teach, 
-      or present infomration. Plain style works best in documents like technical description, 
+      or present information. Plain style works best in documents like technical description, 
       instructions, and activity reports. 
 - When it is appropriate to use persuasive writing style 
     - There are times when you need to influence people to accept your ideas and take action. 
       In these situations, persuasive style allows you to add energy and vision to your writing and 
-      speaking. This style works best with proposal, letters, articles, public presentation, and reports.
+      speaking. This style works best with proposals, letters, articles, public presentations, and reports.
 - The four persuasion techniques: 
-    - Elevate the tone": trick inner voices emotion
+    - Elevate the tone: trick inner voices emotion
     - Use similes and analogies: help the reader to understand difficult concepts
     - Use metaphors: create or reinforce a particular perspective that you want readers to adopt toward your subjects or ideas
     - Change the pace: change intensity of the document
@@ -143,7 +143,7 @@ STC Certification Notes
 - The writing strategies for improving the readability of websites for global audiences
     - layout, graphics, and multimedia
 - The five principles of visual design 
-    - Balance: offset the design features on a page to balance itema on both sides of the page
+    - Balance: offset the design features on a page to balance items on both sides of the page
     - Alignment: structure the text so the hierarchy of information is clear
     - Grouping: put like things together
     - Consistency: each page look the same for better navigation
@@ -151,7 +151,7 @@ STC Certification Notes
 - Why good visual design is important for technical communication
     - easily scan documents
     - access the document to find the information they need
-    - understand the content more readily, 
+    - understand the content more readily
     - appreciate the appearance of the document
 - The four different visual design considerations for culturally shallow documents
     - use of color
@@ -170,7 +170,7 @@ STC Certification Notes
 - How to determine the appropriate level of edit for a document 
     - how much time you have
     - the quality needed in the document
-- The importance of: gain an outside prespective
+- The importance of: gain an outside perspective
     - Document cycling: others at your company look over your draft
     - Usability testing: trying out your document on real readers
 - Key facts about usability testing:
@@ -188,7 +188,7 @@ STC Certification Notes
     - Forming
     - Storming
     - Norming
-    - Preforming
+    - Performing
 -The basic features of a website and how they are navigated by the reader
     - home page: main page of the site
     - node pages: links
@@ -244,10 +244,10 @@ STC Certification Notes
     2. Develop a timeline
     3. Set objectives
         - 3, 1, 2
-- Best approach for checking wether scientific sources are up to date?
+- Best approach for checking whether scientific sources are up to date?
     - Consult a relevant literature review
 - Subject-verb disagreement
-    - All members of the team prefroms setisfactorily
+    - All members of the team performs satisfactorily
 - When would a progress report usually be produced:
     - At regular intervals as agreed with management
 - Why are handouts useful as a visual aid for presentations
@@ -257,28 +257,28 @@ STC Certification Notes
 - Inventing new ideas:
     - Outlining/boxing: what is taught in school
     - Freewriting: just start typing
-    - Logical/concept mapping: id major steps and break down into minor steps, how are we going to achieve this purpose? (visualize)
-    - Journalists questions/ the 5 w and how quesitons: give an answer to each
+    - Logical/concept mapping: id major steps and break them down into minor steps, how are we going to achieve this purpose? (visualize)
+    - Journalists questions/ the 5 w and how questions: give an answer to each
 - Levels of editing
     - 1: Revising: has the purpose of the document changed since it was started
     - 2: Substantive: context, organization, and design
     - 3: Copyediting: style for clarity, persuasion, and consistency (sentence and paragraph level)
     - 4: Proofreading: grammatical mistakes, misspellings, and usage problems
-- Guidlines for wokring with visuals in a presentation
+- Guidelines for working with visuals in a presentation
     - Keep tables small and simple
     - Use lists instead of paragraphs and sentences
     - Put five or fewer items on a slide
     - title each slide with an action oriented headings
     - text to the left
     - use icons and graphs
-- Why is triangulation of sorces important?
+- Why is triangulation of sources important?
     - Compares evidence from a variety of print, electronic and empirical sources
 - Charts
     - Pie Chart: take a significant amount of space for relatively small amounts of data
     - Line Graph: change in measurements over time
-    - Bar chart: show quantities for visual comparisans
-    - Flowchart: illisturate insturction, not replace
+    - Bar chart: show quantities for visual comparisons
+    - Flowchart: llustrate instruction, not replace
     - Table: complex, might clog document, difficult to locate specific information
     - Icon and clip art: distracting decorative fluffy 
-    - Symbols: enhace traslation and comprehension, use internationally accepted symbols
+    - Symbols: enhance translation and comprehension, use internationally accepted symbols
     - Line drawings: to highlight the main features of a piece of machinery
