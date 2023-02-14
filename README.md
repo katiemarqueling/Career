@@ -1,7 +1,7 @@
 # Katie Marqueling
 Hi, I'm Katie! Here you can find my 
 [resume](https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/Resume_Marqueling.pdf) and a 
-[cover letter](https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/CoverLetter_Marqueling.pdf). Futhermore, you can track my plan to [upskill](https://github.com/katiemarqueling/Career/blob/main/UpskillChecklist.md)!
+[cover letter](https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/CoverLetter_Marqueling.pdf). Furthermore, you can track my plan to [upskill](https://github.com/katiemarqueling/Career/blob/main/UpskillChecklist.md)!
 
 Certification in progress: Professional Technical Communicator (CPTC) - Foundational 
 

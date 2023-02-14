@@ -1,50 +1,47 @@
-Software Development Life Cycle (SDLC)
+Software Development Life Cycle Notes (SDLC)
 
--Purpose
-    - Created to develop and test software that accuately meets cilent expectaion and does so in a time and cost effectie manner.
-
--Basic Phases   
+- Purpose
+    - Created to develop and test software that accurately meets client expectation and does so in a time and cost effective manner.
+- Basic Phases   
     1. Plan
-        -Identify current problems
-        -What does the client want?
-        -Terms of project
-            -cost
-            -time
-            -goals
-        -Define scope of project
+        - Identify current problems
+        - What does the client want?
+        - Terms of project
+            - cost
+            - time
+            - goals
+        - Define scope of project
             -purpose
             -boundaries
     2. Define
-        -Define and document requirements
-        -SRS (Software Requirement Specification)
+        - Define and document requirements
+        - SRS (Software Requirement Specification)
     3. Design
-        -UI 
-        -Programming
-        -Communication
-        -Architecture
-        -Platforms
+        - UI 
+        - Programming
+        - Communication
+        - Architecture
+        - Platforms
     4. Build
-        -Organization Guidelines
-            -Language used 
-            -Compilers
+        - Organization Guidelines
+            - Language used 
+            - Compilers
     5. Test
-        -Identy bugs and continously fix till SRS is meet
+        - Identify bugs and continuously fix till SRS is meet
     6. Deploy and Maintain
-        -Typically deployed in a testing enviroment first.
-        -Fix bugs once deployed over the software course of life. 
-
--Models
-    -Agile
-    -Big bang
-    -Iterative
-    -Kanban
-    -Lean
-    -RAD
-    -Sprial
-    -V-model
-    -Waterfall
-
--Best Practices
-    -Source Control
-    -Continuous Integration
+        - Typically deployed in a testing environment first.
+        - Fix bugs once deployed over the software course of life. 
+- Models
+    - Agile
+    - Big bang
+    - Iterative
+    - Kanban
+    - Lean
+    - RAD
+    - Spiral
+    - V-model
+    - Waterfall
+- Best Practices
+    - Source Control
+    - Continuous Integration
 

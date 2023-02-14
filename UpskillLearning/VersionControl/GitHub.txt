@@ -1,0 +1,38 @@
+GitHub Notes
+
+- Merge/Pull Request
+    - Local Location 
+    - Clone
+        - <> Code 
+        - Copy Link
+        - git clone link
+    - Making a Branch
+        - git checkout -b newbranchname
+    - Make Changes
+    - Push to Remote
+        - git add .
+        - git commit 
+        - git push -u origin newbranchname (only first commit)
+    - Submit Pull Request 
+        - new pull request
+        - To <-- From
+        - get approved
+    - Clean-up 
+        - git checkout main
+        - git pull
+        - delete local branch
+- Issues
+    - https://github.com/katiemarqueling/Career/issues/1
+        - under repository name click issues 
+        - new issue
+        - open a blank issue
+        - fill out
+        - can create md list
+        - can add labels/milestones
+        - assign the issue
+        - add issue to a project
+        - submit
+        - issue now has unique URL
+- Conventions
+    - LGTM
+    - README.md

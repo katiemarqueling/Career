@@ -1,25 +1,27 @@
--Core Concepts 
-    -Pros 
-        -Cost effective
-        -Reliable (diversified and specalized)
-        -Less work on your part
-    -Cons
-        -Less control
-        -Vender lockin
-    -Shared Responsibility Model
-        -On-Prem (ltt) - you do everything on personal servers
-        -IaaS (hpc) - you provide os, application, and information/they provide server
-        -PaaS (v-desk) you provide application and information/they provide os and server
-        -SaaS (bblearn) - you provide information/they provide application, os, and server
--Major Providers
-    -AWS (Amazon)
-    -GCP (Google)
-    -Azure (Microsoft)
--Serverless
-    -Pay for use not space (Jeffery Star Cosmetic x Shane Dawson)
-    -Always have enough capacity, dont not have to be ahead of demand
--Scalability/Resiliency
-    -Scalability: Need to be ahead of demand
-    -Resiliency: Diversified locations (State Farm Texas)
--Infrastructure as Code (IaC)
-    -
+Cloud Concepts Notes
+
+- Core Concepts 
+    - Pros 
+        - Cost effective
+        - Reliable (diversified and specialized)
+        - Less work on your part
+    - Cons
+        - Less control
+        - Vender lockin
+    - Shared Responsibility Model
+        - On-Prem (ltt) - you do everything on personal servers
+        - IaaS (hpc) - you provide os, application, and information/they provide server
+        - PaaS (v-desk) you provide application and information/they provide os and server
+        - SaaS (bblearn) - you provide information/they provide application, os, and server
+- Major Providers
+    - AWS (Amazon)
+    - GCP (Google)
+    - Azure (Microsoft)
+- Serverless
+    - Pay for use not space (Jeffree Star Cosmetic x Shane Dawson)
+    - Always have enough capacity, dont not have to be ahead of demand
+- Scalability/Resilience
+    - Scalability: Need to be ahead of demand
+    - Resiliency: Diversified locations (State Farm Texas)
+- Infrastructure as Code (IaC)
+    - Creates infrastructure (like a server) for you through code (terraform)
