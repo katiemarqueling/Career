@@ -1,9 +1,11 @@
--Draft.Dev
--A List Apart 
--DigitalOcean
--SUSE 
--IET
--Apple 
--GitLab
--Google
--Microsoft
+Technical Writing Styles Notes
+
+- Draft.Dev
+- A List Apart 
+- DigitalOcean
+- SUSE 
+- IET
+- Apple 
+- GitLab
+- Google
+- Microsoft

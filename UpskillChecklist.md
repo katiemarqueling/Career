@@ -13,16 +13,16 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] [GitHub](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/VersionControl/GitHub.txt)
     - [ ] [Merge/Pull Request](https://github.com/the-germanator/learn-git)
     - [X] Issues
-    - [ ] Conventions
-#### [Data Formats](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats) and [Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/MarkupLanguages)
+    - [X] Conventions
+#### [Data Formats and Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats%26MarkupLanguages)
 - [X] Data Formats
-    - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/Json.json)
-    - [X] [YAML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/YAML.yml)
-    - [X] [XML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats/XML.xml)
+    - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/Json.json)
+    - [X] [YAML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/YAML.yml)
+    - [X] [XML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/XML.xml)
 - [ ] Markups
-    - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/Markdown.md)
-    - [X] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/LifeofTendy.html)
-    - [ ] [AsciiDoc](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/MarkupLanguages/AsciiDoc.adoc)
+    - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/Markdown.md)
+    - [X] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/LifeofTendy.html)
+    - [ ] [AsciiDoc](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/AsciiDoc.adoc)
 #### [Technical Writing](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/TechnicalWriting)
 - [ ] [<i> Docs Like Code</i>, Anne Gentle](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/DocsLikeCode.txt)
 - [ ] [CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/Certification.txt)
