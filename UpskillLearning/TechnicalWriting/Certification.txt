@@ -1,284 +1,284 @@
 STC Certification Notes
 
--The five stages of the technical writing process and how they are followed
-    -Planning and Researching
-    -Organizing and Drafting
-    -Improving Style
-    -Designing
-    -Revising and Editing
--What a reader profile is
-    -A reader profile is an analysis of your reader's specific needs, backgrounds, abilities, and expereinces. Developing a profile of 
-     your readers will give you helpful insight into how they will react to your ideas and how thet will use your document.
--The names of the four types of readers
-    -Primary (action takes: need to make a decison based on the information you are giving them)
-    -Secondary (advisors: experts that infulence decisions)
-    -Tertiary (evaluators: will make outside judgements about works; news, companies competitors)
-    -Gatekeepers (supervisors: review and approve before sent to primary)
--The four elements of the rhetorical situation
-    -subject
-    -purpose
-    -readers
-    -context of use
--Three primary motives
-    -Needs: what does the type of reader need to make their decision
-    -Values: effiency, consistence, accuracy, profit, and enviromental or social concern
-    -Attitudes: what do they think of you, how will they feel about what you are telling them
--Four contexts of document use
-    -Physical: where will the readers use your document
-    -Economic: econic issues that will infuence readers decision, costs and benefits of your idea
-    -Ethical: the personal, social, and enviromental issues that shape the readers
-    -Mobile/Political: how a document will be viewed on various media
--The five helpful strategies to work with global audience    
-    -Listen carefully
-    -Be polite
-    -Research the target culture
-    -Avoid humor
-    -Talk to your colleagues
--What technical genres are and how they are used 
-    -Letter, Memos and E-mail: correspondence
-    -Technical Descriptions and Specifications: describe products in precise detail for manufacturing and marketing
-    -Instructions and Documentation: how to complete task
-    -Proposals: pitch of a plan to solve a problem
-    -Activity/Brief Reports: objectively inform about what happened, what is happening, and what will happen
-    -Analytical/Formal Reports: most common, describes research methodolody, presents results, analyzes results, and makes recommendations
--The different types of primary and secondary sources of evidence
-    -primary: evidence collected from observations, experimentrs, surveys, interviews, ethnographies, and testing
-    -secondary: evidence drawn from acadamic journals, magazine articles, books, websites, research databases, DVDs, CDs, and reference materials
--The three kinds of evidence solid research draws on: 
-    -Electronic: websites, televison and radio, research databases, image databases, podcast, videos, blogs
-    -Print: books, journals, magazines and newspapers, government publication, atlases, reference materials, microform/microfiche, press material
-    -Empirical: experiments, field observations, interviews, surveys and questionnaries,ethnographies, case studies, archives
-        -Quantitative research generates statical data for analysis
-        -Qualitative research identifies a pattern of behavior
--The six opening moves to introduce a document (in order)
-    -Define yout subjects
-    -State your purpose
-    -State your main point
-    -Stress the importance of the subject
-    -Provide background information
-    -Forecast the content
--The major patterns of arrangement for the body of a document and how they are used
-    -cause and efffect: X is caused by Y
-    -comparison and contrast
-    -better and worse: X is better/worse than Y
-    -costs and benefits: benefits (X) outweighs the cost (Y)
-    -if... then: if you believe in X, then you should also believe in Y
-    -either... or: either you believe in X, or you belive in Y
-    -chronological order
-    -problem/needs/solution
-    -example
--The five closing moves in a conclusion
-    -make an obvious transition
-    -restate your main point
-    -reemphasize the importance of the subject
-    -look to the future
-    -say thank you and offer contact information
--Typical patterns for organising each of the six technical genres:
-    -Letter, Memos and E-mail 
-        -introduction with a purpose and main point
-        -body that provides need-yto-know information
-        -conclusion that restates the main point
-    -Technical Descriptions and Specifications 
-        -specific title
-        -introduction with an overall description
-        -description by features, functions, or stages
-        -description that senses, similes, analogies, and metaphors
-        -conclusion
-    -Instructions and Documentation 
-        -specific and presice titles
-        -introduction
-        -list of pars, tools, and conditions required
-        -sequentiially ordered steps
-        -safety information
-        -conclusion that signals completion of task
-        -user-testing your document
-    -Proposals
-        -writing the introduction
-        -describing the current situatiuon
-        -describing the project plan
-        -describing qualifications
-        -concluding with cost and benefits
-    -Activity Reports 
-        -introduction
-        -body
-        -conclusion
-    -Analytical Reports
-        -introduction
-        -describing your methodology
-        -summarizing the results of study
-        -discussing your results
-        -concluding with recommendation
--The eight guidelines for writing plain sentences
-    -make the subject of the sentence what the sentence is about 
-    -use the "doer" as the subject of the sentence
-    -use a verb to express the action, or what the doer is doing 
-    -put the subject of the sentence early in the sentence
-    -eliminate nominalizations
-    -eliminate excessive prepositional phrases
-    -eliminate redundancy in sentences
-    -write sentences that are "breathing length"
--The four types of sentences used in paragraphs
-    -transitional sentence: gap between two sentences
-    -topic sentence: claim or statement rest of paragraph is going to support
-    -support sentence: bulk, prove claim, (examples, facts, data, reasoning...)
-    -point sentence: positioned to create a link from one topic to the next
--When it is appropriate to use plain writing style 
-    -Plain style stresses clear wording and simple prose. It is often used to instruct, teach, 
-     or present infomration. Plain style works best in documents like technical description, 
-     instructions, and activity reports. 
--When it is appropriate to use persuasive writing style 
-    -There are times when you need to influence people to accept your ideas and take action. 
-     In these situations, persuasive style allows you to add energy and vision to your writing and 
-     speaking. This style works best with proposal, letters, articles, public presentation, and reports.
--The four persuasion techniques: 
-    -Elevate the tone": trick inner voices emotion
-    -Use similes and analogies: help the reader to understand difficult concepts
-    -Use metaphors: create or reinforce a particular perspective that you want readers to adopt toward your subjects or ideas
-    -Change the pace: change intensity of the document
--The four strategies for improving the writing style on websites and why these are useful:
-    -Keep sentences short: shorter than sentences on paper
-    -Keep paragraphs short: see paragraph in a glance
-    -Links should reflect titles: page name and link the same
-    -Create a consistent tone: tone reflects topic
--The writing strategies for improving the readability of websites for global audiences
-    -layout, graphics, and multimedia
--The five principles of visual design 
-    -Balance: offset the design features on a page to balance itema on both sides of the page
-    -Alignment: structure the text so the hierarchy of information is clear
-    -Grouping: put like things together
-    -Consistency: each page look the same for better navigation
-    -Contrast: sharpen boundaries between text and background/headings/images
--Why good visual design is important for technical communication
-    -easily scan documents
-    -access the document to find the information they need
-    -understand the content more readily, 
-    -appreciate the appearance of the document
--The four different visual design considerations for culturally shallow documents
-    -use of color
-    -use of people
-    -use of symbols
-    -direction of reading
--The four guidelines for using graphics in documents
-    -A graphic should tell a simple story
-    -A graphic should reinforce the written text, not replace it
-    -A graphic should be ethical 
-    -A graphic should be labeled and placed properly
--The special considerations that apply when working with visuals in a presentation:
-    -Choosing formats
-    -Choosing fonts
-    -Using graphics 
--How to determine the appropriate level of edit for a document 
-    -how much time you have
-    -the quality needed in the document
--The importance of: gain an outside prespective
-    -Document cycling: others at your company look over your draft
-    -Usability testing: trying out your document on real readers
--Key facts about usability testing:
-    -tracking staff members as they follow instructions for a new process on a test system
--The types of usability testing used in evaluating technical writing products 
-    -read and locate
-    -surveying
-    -focus groups
--The four questions used to help design usability tests 
-    -Can they find it?
-    -Can they understand it?
-    -Can they do it?
-    -Is it safe?
--The four stages of forming a work team and their sequence (according to Tuckman)
-    -Forming
-    -Storming
-    -Norming
-    -Preforming
+- The five stages of the technical writing process and how they are followed
+    - Planning and Researching
+    - Organizing and Drafting
+    - Improving Style
+    - Designing
+    - Revising and Editing
+- What a reader profile is
+    - A reader profile is an analysis of your reader's specific needs, backgrounds, abilities, and expereinces. Developing a profile of 
+      your readers will give you helpful insight into how they will react to your ideas and how thet will use your document.
+- The names of the four types of readers
+    - Primary (action takes: need to make a decison based on the information you are giving them)
+    - Secondary (advisors: experts that infulence decisions)
+    - Tertiary (evaluators: will make outside judgements about works; news, companies competitors)
+    - Gatekeepers (supervisors: review and approve before sent to primary)
+- The four elements of the rhetorical situation
+    - subject
+    - purpose
+    - readers
+    - context of use
+- Three primary motives
+    - Needs: what does the type of reader need to make their decision
+    - Values: effiency, consistence, accuracy, profit, and enviromental or social concern
+    - Attitudes: what do they think of you, how will they feel about what you are telling them
+- Four contexts of document use
+    - Physical: where will the readers use your document
+    - Economic: econic issues that will infuence readers decision, costs and benefits of your idea
+    - Ethical: the personal, social, and enviromental issues that shape the readers
+    - Mobile/Political: how a document will be viewed on various media
+- The five helpful strategies to work with global audience    
+    - Listen carefully
+    - Be polite
+    - Research the target culture
+    - Avoid humor
+    - Talk to your colleagues
+- What technical genres are and how they are used 
+    - Letter, Memos and E-mail: correspondence
+    - Technical Descriptions and Specifications: describe products in precise detail for manufacturing and marketing
+    - Instructions and Documentation: how to complete task
+    - Proposals: pitch of a plan to solve a problem
+    - Activity/Brief Reports: objectively inform about what happened, what is happening, and what will happen
+    - Analytical/Formal Reports: most common, describes research methodolody, presents results, analyzes results, and makes recommendations
+- The different types of primary and secondary sources of evidence
+    - primary: evidence collected from observations, experimentrs, surveys, interviews, ethnographies, and testing
+    - secondary: evidence drawn from acadamic journals, magazine articles, books, websites, research databases, DVDs, CDs, and reference materials
+- The three kinds of evidence solid research draws on: 
+    - Electronic: websites, televison and radio, research databases, image databases, podcast, videos, blogs
+    - Print: books, journals, magazines and newspapers, government publication, atlases, reference materials, microform/microfiche, press material
+    - Empirical: experiments, field observations, interviews, surveys and questionnaries,ethnographies, case studies, archives
+        - Quantitative research generates statical data for analysis
+        - Qualitative research identifies a pattern of behavior
+- The six opening moves to introduce a document (in order)
+    - Define yout subjects
+    - State your purpose
+    - State your main point
+    - Stress the importance of the subject
+    - Provide background information
+    - Forecast the content
+- The major patterns of arrangement for the body of a document and how they are used
+    - cause and efffect: X is caused by Y
+    - comparison and contrast
+    - better and worse: X is better/worse than Y
+    - costs and benefits: benefits (X) outweighs the cost (Y)
+    - if... then: if you believe in X, then you should also believe in Y
+    - either... or: either you believe in X, or you belive in Y
+    - chronological order
+    - problem/needs/solution
+    - example
+- The five closing moves in a conclusion
+    - make an obvious transition
+    - restate your main point
+    - reemphasize the importance of the subject
+    - look to the future
+    - say thank you and offer contact information
+- Typical patterns for organising each of the six technical genres:
+    - Letter, Memos and E-mail 
+        - introduction with a purpose and main point
+        - body that provides need-yto-know information
+        - conclusion that restates the main point
+    - Technical Descriptions and Specifications 
+        - specific title
+        - introduction with an overall description
+        - description by features, functions, or stages
+        - description that senses, similes, analogies, and metaphors
+        - conclusion
+    - Instructions and Documentation 
+        - specific and presice titles
+        - introduction
+        - list of pars, tools, and conditions required
+        - sequentiially ordered steps
+        - safety information
+        - conclusion that signals completion of task
+        - user-testing your document
+    - Proposals
+        - writing the introduction
+        - describing the current situatiuon
+        - describing the project plan
+        - describing qualifications
+        - concluding with cost and benefits
+    - Activity Reports 
+        - introduction
+        - body
+        - conclusion
+    - Analytical Reports
+        - introduction
+        - describing your methodology
+        - summarizing the results of study
+        - discussing your results
+        - concluding with recommendation
+- The eight guidelines for writing plain sentences
+    - make the subject of the sentence what the sentence is about 
+    - use the "doer" as the subject of the sentence
+    - use a verb to express the action, or what the doer is doing 
+    - put the subject of the sentence early in the sentence
+    - eliminate nominalizations
+    - eliminate excessive prepositional phrases
+    - eliminate redundancy in sentences
+    - write sentences that are "breathing length"
+- The four types of sentences used in paragraphs
+    - transitional sentence: gap between two sentences
+    - topic sentence: claim or statement rest of paragraph is going to support
+    - support sentence: bulk, prove claim, (examples, facts, data, reasoning...)
+    - point sentence: positioned to create a link from one topic to the next
+- When it is appropriate to use plain writing style 
+    - Plain style stresses clear wording and simple prose. It is often used to instruct, teach, 
+      or present infomration. Plain style works best in documents like technical description, 
+      instructions, and activity reports. 
+- When it is appropriate to use persuasive writing style 
+    - There are times when you need to influence people to accept your ideas and take action. 
+      In these situations, persuasive style allows you to add energy and vision to your writing and 
+      speaking. This style works best with proposal, letters, articles, public presentation, and reports.
+- The four persuasion techniques: 
+    - Elevate the tone": trick inner voices emotion
+    - Use similes and analogies: help the reader to understand difficult concepts
+    - Use metaphors: create or reinforce a particular perspective that you want readers to adopt toward your subjects or ideas
+    - Change the pace: change intensity of the document
+- The four strategies for improving the writing style on websites and why these are useful:
+    - Keep sentences short: shorter than sentences on paper
+    - Keep paragraphs short: see paragraph in a glance
+    - Links should reflect titles: page name and link the same
+    - Create a consistent tone: tone reflects topic
+- The writing strategies for improving the readability of websites for global audiences
+    - layout, graphics, and multimedia
+- The five principles of visual design 
+    - Balance: offset the design features on a page to balance itema on both sides of the page
+    - Alignment: structure the text so the hierarchy of information is clear
+    - Grouping: put like things together
+    - Consistency: each page look the same for better navigation
+    - Contrast: sharpen boundaries between text and background/headings/images
+- Why good visual design is important for technical communication
+    - easily scan documents
+    - access the document to find the information they need
+    - understand the content more readily, 
+    - appreciate the appearance of the document
+- The four different visual design considerations for culturally shallow documents
+    - use of color
+    - use of people
+    - use of symbols
+    - direction of reading
+- The four guidelines for using graphics in documents
+    - A graphic should tell a simple story
+    - A graphic should reinforce the written text, not replace it
+    - A graphic should be ethical 
+    - A graphic should be labeled and placed properly
+- The special considerations that apply when working with visuals in a presentation:
+    - Choosing formats
+    - Choosing fonts
+    - Using graphics 
+- How to determine the appropriate level of edit for a document 
+    - how much time you have
+    - the quality needed in the document
+- The importance of: gain an outside prespective
+    - Document cycling: others at your company look over your draft
+    - Usability testing: trying out your document on real readers
+- Key facts about usability testing:
+    - tracking staff members as they follow instructions for a new process on a test system
+- The types of usability testing used in evaluating technical writing products 
+    - read and locate
+    - surveying
+    - focus groups
+- The four questions used to help design usability tests 
+    - Can they find it?
+    - Can they understand it?
+    - Can they do it?
+    - Is it safe?
+- The four stages of forming a work team and their sequence (according to Tuckman)
+    - Forming
+    - Storming
+    - Norming
+    - Preforming
 -The basic features of a website and how they are navigated by the reader
-    -home page: main page of the site
-    -node pages: links
-    -pages: individual pages that contain the facts, details, images, and other information that readers are seeking
-    -navigation pages: search engine or site map
--The guidelines for determining the number of levels needed in a website 
-    -a maximum of three links for the most important information
-    -a maximum of five links for 80 percent of all information
-    -a maximum of seven links for all information
--The different types of websites used in the workplace and what they are the commonly used for: 
-    -Social networks: raise awareness
-    -Wikis: keeping documentation and specification up to date and providing customer service
-    -Blogs: build a brand, communicate with the public
-    -Microblogs: build a brand, communicate with the public
-    -Video and podcasts: build awareness about company and its products (inexpensive)
+    - home page: main page of the site
+    - node pages: links
+    - pages: individual pages that contain the facts, details, images, and other information that readers are seeking
+    - navigation pages: search engine or site map
+- The guidelines for determining the number of levels needed in a website 
+    - a maximum of three links for the most important information
+    - a maximum of five links for 80 percent of all information
+    - a maximum of seven links for all information
+- The different types of websites used in the workplace and what they are the commonly used for: 
+    - Social networks: raise awareness
+    - Wikis: keeping documentation and specification up to date and providing customer service
+    - Blogs: build a brand, communicate with the public
+    - Microblogs: build a brand, communicate with the public
+    - Video and podcasts: build awareness about company and its products (inexpensive)
 ---
--What is an editor on a technical communication team typically responsible for?
-    -Evaluating missing content areas and how information is organized
--Which of the following statements are correct guidelines for writing plain sentences?
+- What is an editor on a technical communication team typically responsible for?
+    - Evaluating missing content areas and how information is organized
+- Which of the following statements are correct guidelines for writing plain sentences?
     1. Use the doer as the subject of the sentence
     2. Write sentences that are breathing length
     3. Eliminate nominalizations
     4. Put the subject toward the end of the sentence
-        -1, 2, 3
--Which approach is applying the visual design principle of grouping?
+        - 1, 2, 3
+- Which approach is applying the visual design principle of grouping?
     1. Use borders to break the page into more manageable sections
     2. Offset the elements on a page to create a stable feeling in the text
     3. Use horizontal straight lines (rules) to signal places to pause in the document
     4. Use the white space appropriately to frame items on the page
-        -1,3,4
--Which of the following statements about the focus of substantive editing are true?
+        - 1,3,4
+- Which of the following statements about the focus of substantive editing are true?
     1. The content should be checked for any gaps or digressions.
     2. The document should be designed for the target audience and the context of use.
-        -Both 1 and 2 are true
--Which communication situation is MOST likely to use the technical genre of activity reports?
-    -Reporting on an issue and its future implications for the workplace
--Which is a factor for consideration when using symbols in documents for a global audience?
-    -Use of symbols can result in unintended consequences(cultural confusion)
--Which of the following are major patterns of arrangement for a section of a document?
+        - Both 1 and 2 are true
+- Which communication situation is MOST likely to use the technical genre of activity reports?
+    - Reporting on an issue and its future implications for the workplace
+- Which is a factor for consideration when using symbols in documents for a global audience?
+    - Use of symbols can result in unintended consequences(cultural confusion)
+- Which of the following are major patterns of arrangement for a section of a document?
     1. Cause and effect
     2. Chronological order
     3. Comparison and contrast
     4. Mandatory and optional
-        -1, 2, 3
--According to Johnson Sheehan, which of the following statements about project outcomes and deliverables are true?
+        - 1, 2, 3
+- According to Johnson Sheehan, which of the following statements about project outcomes and deliverables are true?
     1. Project outcomes are the visible and measurable results of the team’s efforts.
     2. Deliverables are the real products or services that you will deliver to clients upon a project’s completion.
-        -Both 1 and 2 are true
--Which of the following is NOT a benefit of using reader profiles for technical communication?
-    -Provides a visual way of presenting ideas and understanding their logical relationships
--When strategically planning the work of a technical documentation team, in what sequence are the following typically undertaken?
+        - Both 1 and 2 are true
+- Which of the following is NOT a benefit of using reader profiles for technical communication?
+    - Provides a visual way of presenting ideas and understanding their logical relationships
+- When strategically planning the work of a technical documentation team, in what sequence are the following typically undertaken?
     1. Create a list of tasks
     2. Develop a timeline
     3. Set objectives
-        -3, 1, 2
--Best approach for checking wether scientific sources are up to date?
-    -Consult a relevant literature review
--Subject-verb disagreement
-    -All members of the team prefroms setisfactorily
--When would a progress report usually be produced:
-    -At regular intervals as agreed with management
--Why are handouts useful as a visual aid for presentations
-    -Enables the presenter to circulate detailed technical data to re-enforce key points
--What are the likely implications of changing the citation styles used in a document
-    -Both the in-text citation and the reference list need checking
--Inventing new ideas:
-    -Outlining/boxing: what is taught in school
-    -Freewriting: just start typing
-    -Logical/concept mapping: id major steps and break down into minor steps, how are we going to achieve this purpose? (visualize)
-    -Journalists questions/ the 5 w and how quesitons: give an answer to each
--Levels of editing
-    -1: Revising: has the purpose of the document changed since it was started
-    -2: Substantive: context, organization, and design
-    -3: Copyediting: style for clarity, persuasion, and consistency (sentence and paragraph level)
-    -4: Proofreading: grammatical mistakes, misspellings, and usage problems
--Guidlines for wokring with visuals in a presentation
-    -Keep tables small and simple
-    -Use lists instead of paragraphs and sentences
-    -Put five or fewer items on a slide
-    -title each slide with an action oriented headings
-    -text to the left
-    -use icons and graphs
--Why is triangulation of sorces important?
-    -Compares evidence from a variety of print, electronic and empirical sources
--Charts
-    -Pie Chart: take a significant amount of space for relatively small amounts of data
-    -Line Graph: change in measurements over time
-    -Bar chart: show quantities for visual comparisans
-    -Flowchart: illisturate insturction, not replace
-    -Table: complex, might clog document, difficult to locate specific information
-    -Icon and clip art: distracting decorative fluffy 
-    -Symbols: enhace traslation and comprehension, use internationally accepted symbols
-    -Line drawings: to highlight the main features of a piece of machinery
+        - 3, 1, 2
+- Best approach for checking wether scientific sources are up to date?
+    - Consult a relevant literature review
+- Subject-verb disagreement
+    - All members of the team prefroms setisfactorily
+- When would a progress report usually be produced:
+    - At regular intervals as agreed with management
+- Why are handouts useful as a visual aid for presentations
+    - Enables the presenter to circulate detailed technical data to re-enforce key points
+- What are the likely implications of changing the citation styles used in a document
+    - Both the in-text citation and the reference list need checking
+- Inventing new ideas:
+    - Outlining/boxing: what is taught in school
+    - Freewriting: just start typing
+    - Logical/concept mapping: id major steps and break down into minor steps, how are we going to achieve this purpose? (visualize)
+    - Journalists questions/ the 5 w and how quesitons: give an answer to each
+- Levels of editing
+    - 1: Revising: has the purpose of the document changed since it was started
+    - 2: Substantive: context, organization, and design
+    - 3: Copyediting: style for clarity, persuasion, and consistency (sentence and paragraph level)
+    - 4: Proofreading: grammatical mistakes, misspellings, and usage problems
+- Guidlines for wokring with visuals in a presentation
+    - Keep tables small and simple
+    - Use lists instead of paragraphs and sentences
+    - Put five or fewer items on a slide
+    - title each slide with an action oriented headings
+    - text to the left
+    - use icons and graphs
+- Why is triangulation of sorces important?
+    - Compares evidence from a variety of print, electronic and empirical sources
+- Charts
+    - Pie Chart: take a significant amount of space for relatively small amounts of data
+    - Line Graph: change in measurements over time
+    - Bar chart: show quantities for visual comparisans
+    - Flowchart: illisturate insturction, not replace
+    - Table: complex, might clog document, difficult to locate specific information
+    - Icon and clip art: distracting decorative fluffy 
+    - Symbols: enhace traslation and comprehension, use internationally accepted symbols
+    - Line drawings: to highlight the main features of a piece of machinery
