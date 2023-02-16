@@ -1,0 +1,46 @@
+API Notes
+
+- What is an API
+    - Application Programming Interface
+    - A set of defintions and protocols to build and intergrate application software.
+    - API is the messenger that takes request and tells a system what you want to do (waiter).
+    - Stores and retrieves necessary data.
+-RESTful APIs
+    - Standard ot best-practice for web APIs
+    - HTTP Request
+    - 5 methods/actions supported by REST:
+        - GET: This method is used to retrieve a data from database / server.
+        - POST: This method is used to create a new record
+        - PUT: This method is used to modify / replace the record
+        - PATCH: This method is used to modify / update the record
+        - DELETE: This method is used to delete the record
+- Describe an example of an API using the analogy of a car
+    - A partner wants to purchase a new car for their significant other. They go shopping on Subaru's website to search for new cars. 
+      This sends a HTTP request to Subaru's server to GET a list of all the models of cars. The website responds with a JSON list.  
+      Subaru's website then reads this response and displays it on the web page in a human-readable format. After performing several GETs, 
+      through searching the various models, they decide on a Crosstrek and add it to the shopping cart. This created a POST request where 
+      a new record is created in Subaru's database containing the model, package, color, price, etc.
+    - One afternoon, after driving a steep road to a hike, they decide that their lifestyle requires the "sport" package with the bigger 
+      engine. They go to the checkout and update the kit to reflect the sports package. This triggers a PATCH, where everything else remains 
+      the same, but the package changes from basic to sport.
+    - After noticing that his partner spent a sizable chunk on a "mystery gift," they were doubting if they could afford this car at this 
+      time. To take a cheaper route, they initiate a PUT request where the entire Crosstrek data is replaced with an Impreza.
+    - They come home one day, and their partner is excited that the mystery gift has arrived. The partner walks them out to the driveway, 
+      where a new Subaru Crosstrek Sport is sitting. Realizing that they now have a new car, they trigger a DELETE request to cancel the order. 
+- How do we describe (what do we call) the thing making requests and handling responses?
+    - API Call
+- How do we pass information about our request?
+    - Client send the request (with header)
+    - Sent to a specific URL
+    - Server resonds (with header)
+- How do we tell the thing we’re requesting from what type of content we are providing and/or looking for?
+    - Headers
+- How do we categorize answers? Name examples for the following categories:
+- Success?
+- Permissions Error?
+- Not found?
+- Server error?
+- What type (multiple answers) of request has content in the “body”?
+- Which one never does?
+- Create a fictitious URL that has the following parameters: "name", "age" and "cuddliness", with the values "Tendy", "unknown" and "highly"
+- Go find a real-world example of an API (open to the public) at a major company (ideas include Twitter's Tweet API, Alpaca's stock trading API etc.)
