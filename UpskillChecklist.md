@@ -27,7 +27,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] [<i> Docs Like Code</i>, Anne Gentle](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/DocsLikeCode.txt)
 - [ ] [CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/Certification.txt)
 - [ ] [Technical Writing Styles](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/TechnicalWritingStyles.txt)
-#### Documentation Tools
+#### [Documentation Tools](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DocumentationTools)
 - [ ] [Swagger](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DocumentationTools/Swagger.txt)
 - [ ] JavaDocs
 - [ ] RESTful
@@ -50,8 +50,8 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Other IDEs
 - [ ] SSH and Key Management
 - [ ] Terminals
-#### Advanced Topics
-- [ ] APIs
+#### [Advanced Topics](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/AdvancedTopics)
+- [ ] [APIs](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/APIs.txt)
 - [ ] Databases
 - [ ] Containers
     - [ ] Docker
