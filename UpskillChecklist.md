@@ -28,7 +28,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] [CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/Certification.txt)
 - [ ] [Technical Writing Styles](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/TechnicalWritingStyles.txt)
 #### Documentation Tools
-- [ ] Swagger
+- [ ] [Swagger](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DocumentationTools/Swagger.txt)
 - [ ] JavaDocs
 - [ ] RESTful
 #### CI/CD
@@ -46,7 +46,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Infrastructure as Code
 #### Dev Tools
 - [ ] Stack Overflow
-- [ ] VsCode
+- [X] VsCode
 - [ ] Other IDEs
 - [ ] SSH and Key Management
 - [ ] Terminals
