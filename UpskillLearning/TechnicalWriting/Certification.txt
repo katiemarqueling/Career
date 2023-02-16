@@ -91,7 +91,6 @@ STC Certification Notes
         - sequentially ordered steps
         - safety information
         - conclusion that signals completion of task
-        - user-testing your document
     - Proposals
         - writing the introduction
         - describing the current situation
