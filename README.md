@@ -3,7 +3,8 @@ Hi, I'm Katie! Here you can find my
 [resume](https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/Resume_Marqueling.pdf) and a 
 [cover letter](https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/CoverLetter_Marqueling.pdf). Furthermore, you can track my plan to [upskill](https://github.com/katiemarqueling/Career/blob/main/UpskillChecklist.md)!
 
-Certification in progress: Professional Technical Communicator (CPTC) - Foundational (<i>Test Date February 17th, 2023<i>)
+Certification: Professional Technical Communicator (CPTC) - Foundational<br>
+![Certification](![Picture](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/CPTC_Foundational.jpg?raw=true) <br>)
 
 Please feel free to contact me at katie@marqueling.com, <a href="tel:+16025401619"> (602)540-1619</a>, or on 
 [LinkedIn](https://www.linkedin.com/in/katiemarqueling/).
