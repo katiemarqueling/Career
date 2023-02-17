@@ -6,4 +6,4 @@ Hi, I'm Katie! Here you can find my
 Please feel free to contact me at katie@marqueling.com, <a href="tel:+16025401619"> (602)540-1619</a>, or on 
 [LinkedIn](https://www.linkedin.com/in/katiemarqueling/).
 
-![Picture](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/CPTC_Foundational.jpg?raw=true
+![Picture](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/CPTC_Foundational.jpg?raw=true <br>
