@@ -1,4 +1,4 @@
-Hi! Below you will find a checklist of the skills I am learning to become a more attractive candidate for a career in technology. While I recognize some of these concepts take years to master, I would like to have a basic understanding of these skills by March 15th, 2023 (no, I don't plan to sleep). I recently became a <i>Certified Professional Technical Communicator - Foundational<i>, endorsed by the <i>Society for Technical Communication<i>.
+Hi! Below you will find a checklist of the skills I am learning to become a more attractive candidate for a career in technology. While I recognize some of these concepts take years to master, I would like to have a basic understanding of these skills by March 15th, 2023 (no, I don't plan to sleep). I recently became a <i>Certified Professional Technical Communicator - Foundational</i>, endorsed by the <i>Society for Technical Communication</i>.
 
 If you work in technology and have any advice on skills to add to this list, please open an issue. If you are a recruiter and would like to contact me about open jobs, you can reach me at katie@marqueling.com.
 
