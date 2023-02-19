@@ -1,6 +1,6 @@
 = Caring for Gwart
 
-image::sunset.jpg[Gwart]
+image::https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/PicturesToEmbed/Gwart.jpg?raw=true[Gwart]
 
 Below is a breif guide on how to take care of Gwart, the dumpy tree frog.
 
