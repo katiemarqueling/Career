@@ -20,7 +20,7 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [X] [YAML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/YAML.yml)
     - [X] [XML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/XML.xml)
 - [ ] Markups
-    - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/Resume_Marqueling.pdf)
+    - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/Resume.md)
     - [X] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/LifeofTendy.html)
     - [X] [AsciiDoc](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/GwartsCare.adoc)
 #### [Technical Writing](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/TechnicalWriting)
