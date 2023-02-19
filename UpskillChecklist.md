@@ -31,7 +31,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] [Swagger](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DocumentationTools/Swagger.txt)
 - [ ] JavaDocs
 - [ ] RESTful
-#### CI/CD
+#### [CI/CD](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/CICD.txt)
 - [ ] Concepts
 - [ ] Pipelines
 - [ ] Environments
