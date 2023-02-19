@@ -1,0 +1,44 @@
+= Caring for Gwart
+
+image::sunset.jpg[Gwart]
+
+Below is a breif guide on how to take care of Gwart, the dumpy tree frog.
+
+== Bioactive Vivarium
+=== Tempurature and Humidity
+Gwart's tank must be kept at a consistent humidity and temperature. There should be a basking air temperature of 82–84°F, an average ambient temperature of 74–76°F, and nighttime temperatures as low as 65°F. The humidity level should remain between 45% and 60% throughout the day.
+
+Tips:
+* Spray the walls and plants once or twice a day.
+* Try to keep it looking slightly wet.
+* If you're having trouble, you can change the size of the plexiglass crack.
+* If the ambient temperature is too low, place a heating pad beneath the tank.
+
+=== Cleaniness
+Ensure that the tank is kept clean. Fecal matter and decomposing crickets need to be removed immediately upon notice.
+
+=== Top of tank
+On the top of Gwart's tank, there is a grate, a piece of plexiglass, and a light. When working inside the tank, place the grate top on top of the tank and the plexiglass, leaving a small crack. From 7 a.m. to 7 p.m., the light should be turned on.
+
+== Food and Water
+=== Spray Bottle
+The "Gwart Safe" spray bottle contains water that has been treated with ReptiSafe. When the bottle is empty, it needs to be refilled all the way to the top with tap water, followed by 4+ squeezes of ReptiSafe.
+
+=== Water Dish
+The water dish needs to be washed daily. This is completed by washing it in the sink, filling it with water, putting in 3-4 drops of ReptiSafe, and then spraying it with the "Gwart Safe" spray bottle.
+
+=== Food
+Gwart gets fed once a week, typically on Sundays. Gwart receives an appropriate amount of crickets that have been treated with a calcium supplement. In order to treat the crickets, they need to be "shaken" with a pinch of calcium supplement before being dumped into the tank.
+
+Appropriate Amount of Crickets
+[options="header,footer"]
+|=======================
+|Size            |  Quantity
+|Medium (3/4 in) |12-15
+|Large (Adult)   |10
+|=======================
+
+_Additional insects can be fed to Gwart, such as earthworms, hornworms, silkworms, and superworms. Offer as many insects as Gwart will eat in a 15 minute period_
+
+== Handeling
+Gwart is fairly handleable. Handle Gwart while wearing a pair of nitrile gloves, and grasp her gently but firmly. Preferably, Gwart will be handled once the light has gone off!

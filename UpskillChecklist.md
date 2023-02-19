@@ -40,7 +40,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 #### [Advanced Topics](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/AdvancedTopics)
 - [ ] [APIs](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/APIs.txt)
 - [ ] Databases
-- [X] [CI/CD](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AvancedTopics/CICD.txt)
+- [X] [CI/CD](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/CICD.txt)
 - [X] [Cloud Concepts](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/CloudConcepts.txt)
 - [ ] Containers
     - [ ] Docker
@@ -48,10 +48,3 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Nginx/Apache
 - [ ] Node.js/Java
 - [ ] React/Angular
-
-
-
-
-
-
-
