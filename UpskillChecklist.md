@@ -22,7 +22,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Markups
     - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/Markdown.md)
     - [X] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/LifeofTendy.html)
-    - [ ] [AsciiDoc](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/PeanutButter&Jelly.adoc)
+    - [X] [AsciiDoc](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/PeanutButter&Jelly.adoc)
 #### [Technical Writing](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/TechnicalWriting)
 - [ ] [<i> Docs Like Code</i>, Anne Gentle](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/DocsLikeCode.txt)
 - [X] [CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation](https://www.credly.com/badges/2a50be9c-a3c5-48a2-8c39-a9bcba40c9f6/linked_in_profile)
