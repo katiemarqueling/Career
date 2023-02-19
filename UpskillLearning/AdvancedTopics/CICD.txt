@@ -1,0 +1,6 @@
+CI/CD Notes
+
+- Continuous integration and continuous delivery or continuous deployment.
+- Set of rules (such as a push to a main branch) that kicks off a pipeline of a sets (search for typos, formatting error, and push to cloud).
+- Automated testing and security scans. 
+- "Actions" is GitHubs version of CI/CD

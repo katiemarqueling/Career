@@ -31,19 +31,6 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] [Swagger](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DocumentationTools/Swagger.txt)
 - [ ] JavaDocs
 - [ ] RESTful
-#### [CI/CD](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/CICD.txt)
-- [ ] Concepts
-- [ ] Pipelines
-- [ ] Environments
-- [ ] Development
-- [ ] Production
-- [ ] DevOps
-#### [Cloud Concepts](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/CloudConcepts.txt)
-- [X] Core Concepts (Pros/Cons)
-- [X] Major Providers
-- [X] Severless Concepts
-- [X] Scalability/Resiliency
-- [ ] Infrastructure as Code
 #### Dev Tools
 - [ ] Stack Overflow
 - [X] VsCode
@@ -53,6 +40,8 @@ If you work in technology and have any advice on skills to add to this list, ple
 #### [Advanced Topics](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/AdvancedTopics)
 - [ ] [APIs](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/APIs.txt)
 - [ ] Databases
+- [X] [CI/CD](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AvancedTopics/CICD.txt)
+- [X] [Cloud Concepts](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/CloudConcepts.txt)
 - [ ] Containers
     - [ ] Docker
     - [ ] Docker Swarm/K8s
