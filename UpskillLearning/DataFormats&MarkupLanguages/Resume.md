@@ -33,6 +33,9 @@
 ### Bachelor of Arts in Political Science and Intelligence Studies
 #### Northern Arizona University | Flagstaff, Arizona | August 2018 - May 2022
 ##### 3.65 GPA (Dean's List)
+## Certification
+### Certified Professional Technical Communcator - Foundation
+#### Society for Technical Communication | Feburary 2023
 ## Accomplishments
 * Northern Arizona University German Club: President | 2021
 * AFP AZ: Outstanding Student in Philanthropy | 2018
