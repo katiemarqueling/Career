@@ -1,8 +1,8 @@
 # Katie Marqueling
 katie@marqueling.com <br>
-602-540-1619 <br>
 [www.linkedin.com/in/katiemarqueling/](https://www.linkedin.com/in/katiemarqueling/) <br>
 [https://github.com/katiemarqueling](https://github.com/katiemarqueling) <br>
+<br>
 <i>After chasing my dreams of improving police-community trust relations for two years, my allergy to pepper spray is sending me on to new adventures. I am currently seeking a position that will challenge me with hard work, and improve my adaptability and leadership skills. I hope to bring my discipline, integrity, and positive attitude to a future team.</i>
 ## Professional Experience
 ### Police Officer Recruit
