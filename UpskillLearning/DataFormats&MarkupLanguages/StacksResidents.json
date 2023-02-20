@@ -1,0 +1,66 @@
+{
+    "StacksResident": {
+        "H501": [
+            {
+                "name": "Christoph",
+                "human": true,
+                "age": 24,
+                "hobbies": [
+                    "video games",
+                    "bread making",
+                    "stamps"
+                ]
+            },
+            {
+                "name": "Katie",
+                "human": true,
+                "age": 23,
+                "hobbies": [
+                    "baking",
+                    "hiking",
+                    "knitting"
+                ]
+            },
+            {
+                "name": "Tendy",
+                "human": false,
+                "age": 3,
+                "hobbies": [
+                    "sleeping",
+                    "eating",
+                    "playing"
+                ]
+            },
+            {
+                "name": "Gwart",
+                "human": false,
+                "age": 1,
+                "hobbies": [
+                    "eating crickets",
+                    "hiding in log",
+                    "being a frog"
+                ]
+            }
+        ],
+        "H502": [
+            {
+                "name": "David",
+                "human": true,
+                "age": 30,
+                "hobbies": [
+                    "working out",
+                    "reading"
+                ]
+            },
+            {
+                "name": "Cara",
+                "human": true,
+                "age": 30,
+                "hobbies": [
+                    "eating",
+                    "relaxing"
+                ]
+            }
+        ]
+    }
+}

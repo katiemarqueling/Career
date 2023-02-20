@@ -16,7 +16,7 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [X] Conventions
 #### [Data Formats and Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats%26MarkupLanguages)
 - [X] Data Formats
-    - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/Json.json)
+    - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/StacksResidents.json)
     - [X] [YAML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/YAML.yml)
     - [X] [XML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/XML.xml)
 - [ ] Markups
