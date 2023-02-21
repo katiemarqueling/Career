@@ -1,19 +1,54 @@
 API Notes
 
 - What is an API
-    - Application Programming Interface
-    - A set of defintions and protocols to build and intergrate application software.
-    - API is the messenger that takes request and tells a system what you want to do (waiter).
-    - Stores and retrieves necessary data.
--RESTful APIs
-    - Standard ot best-practice for web APIs
+  - Application Programming Interface
+  - CRM: Customer Relationship Management
+  - A set of definitions and protocols to build and integrate application software
+  - API is the messenger that takes request and tells a system what you want to do (waiter).
+  - Stores and retrieves necessary data.
+  - Helps you access information for data- driven decision-making.
+  - Can build programs that run searches on the data the server is hosting and transform that informaiton 
+    into a different usable format (Uber + Google Maps).
+- API Management Tools/ HTTP Clients
+  - Mulesoft
+  - Postman
+  - Paw
+- API Architecture
+  - SOAP APIs  
+    - Simple Object Access Protocols
+    - Rigid structure and independence from any specific programming language.
+    - Less popular than once was.
+  - REST APIs
+    - Representational State Transfer
+    - Flexiable, more like a style guide than a structure.
+  - RESTful APIs
+    - Has all of the features of REST architecture, but it differs slightly in that it has a transport protocol and 
+      makes cached information accessible at any time rather than displacing it if left unused. More flexible, but less secure. 
+    - Standard or best-practice for web APIs
     - HTTP Request
-    - 5 methods/actions supported by REST:
-        - GET: This method is used to retrieve a data from database / server.
-        - POST: This method is used to create a new record
-        - PUT: This method is used to modify / replace the record
-        - PATCH: This method is used to modify / update the record
-        - DELETE: This method is used to delete the record
+- 5 methods/actions of APIs: (HTTP Verbs)
+  - GET: This method is used to retrieve a data from database / server
+  - POST: This method is used to create a new record
+  - PUT: This method is used to modify / replace the record
+  - PATCH: This method is used to modify / update the record
+  - DELETE: This method is used to delete the record
+- API Calls
+  - Steps 
+    - Client request
+    - Retrieval of requested information
+    - Delivery of that information from the server to the client
+  - Header
+    - HTTP verb
+    - Universal Resource Indicator (URI) of server that you requested info from
+    - Content type and link
+    - Meta data
+    - API key 
+  - Status Code
+    - 2: your request was sucessful
+    - 4: something went wrong
+-Pull Data from API
+  - Buid a URL from existing documention
+  - api.openweathermap.org/data/2.5/weather?q={city name}
 - Describe an example of an API using the analogy of a car
     - A partner wants to purchase a new car for their significant other. They go shopping on Subaru's website to search for new cars. 
       This sends a HTTP request to Subaru's server to GET a list of all the models of cars. The website responds with a JSON list.  
@@ -27,20 +62,3 @@ API Notes
       time. To take a cheaper route, they initiate a PUT request where the entire Crosstrek data is replaced with an Impreza.
     - They come home one day, and their partner is excited that the mystery gift has arrived. The partner walks them out to the driveway, 
       where a new Subaru Crosstrek Sport is sitting. Realizing that they now have a new car, they trigger a DELETE request to cancel the order. 
-- How do we describe (what do we call) the thing making requests and handling responses?
-    - API Call
-- How do we pass information about our request?
-    - Client send the request (with header)
-    - Sent to a specific URL
-    - Server resonds (with header)
-- How do we tell the thing we’re requesting from what type of content we are providing and/or looking for?
-    - Headers
-- How do we categorize answers? Name examples for the following categories:
-- Success?
-- Permissions Error?
-- Not found?
-- Server error?
-- What type (multiple answers) of request has content in the “body”?
-- Which one never does?
-- Create a fictitious URL that has the following parameters: "name", "age" and "cuddliness", with the values "Tendy", "unknown" and "highly"
-- Go find a real-world example of an API (open to the public) at a major company (ideas include Twitter's Tweet API, Alpaca's stock trading API etc.)
