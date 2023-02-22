@@ -1,11 +1,20 @@
 Technical Writing Styles Notes
 
-- Draft.Dev
-- A List Apart 
-- DigitalOcean
-- SUSE 
-- IET
+- A List Apart
+    - https://alistapart.com/about/style-guide/
 - Apple 
+    - https://support.apple.com/guide/applestyleguide/about-the-guide-apsg1eef9171/web
+- DigitalOcean
+    - https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines
+- Draft.Dev 
+    - https://draft.dev/learn/styleguide
 - GitLab
+    - https://docs.gitlab.com/ee/development/documentation/styleguide/index.html
 - Google
+    - https://developers.google.com/style
+- IET
+    - https://www.theiet.org/media/5182/technical-report-writing.pdf
 - Microsoft
+    - https://learn.microsoft.com/en-us/style-guide/welcome/
+- SUSE 
+    - https://documentation.suse.com/en-us/style/current/single-html/docu_styleguide/
