@@ -27,6 +27,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] [<i> Docs Like Code</i>, Anne Gentle](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/DocsLikeCode.txt)
 - [X] [CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation](https://www.credly.com/badges/2a50be9c-a3c5-48a2-8c39-a9bcba40c9f6/linked_in_profile)
 - [ ] [Technical Writing Styles](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/TechnicalWritingStyles.txt)
+- [ ] Open Source - Jenkins
 #### [Documentation Tools](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DocumentationTools)
 - [ ] [Swagger](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DocumentationTools/Swagger.txt)
 - [ ] JavaDocs
@@ -39,6 +40,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Terminals
 #### [Advanced Topics](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/AdvancedTopics)
 - [ ] [APIs](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/APIs.txt)
+    - [ ] Postman
 - [ ] Databases
 - [X] [CI/CD](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/CICD.txt)
 - [X] [Cloud Concepts](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/CloudConcepts.txt)

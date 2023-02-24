@@ -1,0 +1,10 @@
+Jenkins Notes
+
+- What is Jenkins?
+    - Java with plugins
+    - Test your software projects continously
+
+https://www.youtube.com/watch?v=SP8B4luOjjw
+
+- How to install
+    - 
