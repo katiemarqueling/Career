@@ -45,7 +45,9 @@ API Notes
     - API key 
   - Status Code
     - 2: your request was sucessful
-    - 4: something went wrong
+    - 3: auth
+    - 4: something went wrong 
+    - 5: something went wrong on our end, server error
 -Pull Data from API
   - Buid a URL from existing documention
   - api.openweathermap.org/data/2.5/weather?q={city name}

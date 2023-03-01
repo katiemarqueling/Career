@@ -1,0 +1,8 @@
+Postman Notes
+
+Method + Link + Info
+
+- Put: body required
+- Post: body required
+- Get: update link
+- Delete: update link

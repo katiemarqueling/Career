@@ -1,0 +1,4 @@
+Swagger Notes
+
+- document exisitng API
+- automatically generate basic code for you (YAML or JSON)
