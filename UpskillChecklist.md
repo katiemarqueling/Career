@@ -47,7 +47,8 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Containers
     - [ ] Docker
     - [ ] Docker Swarm/K8s
-    - [ ] GitHub Pages
+- [ ] GitHub Pages
 - [ ] Nginx/Apache
 - [ ] Node.js/Java
 - [ ] React/Angular
+- [ ] [Search Engine Optimization](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/SEO.txt)
