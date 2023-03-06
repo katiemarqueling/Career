@@ -1,0 +1,81 @@
+Google SEO Fundamentals Notes
+
+- Module 1: On-page SEO
+    - 3 key areas of SEOs:
+        - On-page optimizarion refers to the content on the page, keyword choice for the page,  and optimizing the pages metadata.
+        - Technical SEO refers to the structure and code of your website.
+        - Off-site SEO refers to what actions you can take outside of your website to improve optimization of your website. 
+    - anatomy of a perfectly optimized page
+        - optimize content
+            - target keywords placed in first 100 words
+            - H1 tag for mini title
+            - H2 tage for subheadings 
+            - frequently use keywords
+            - use external links
+            - URLs organized and clear
+        - optimize title and tags
+            - front-load title tag (keyword at beginning - title)
+            - title tag modifiers (best, guide, checklist, fast, review)
+            - unique, keyword-rich meta descriptions (dont use auto)
+        - write SEO content
+            - unique (content that is new)
+            - super valuable
+            - optimized for search intent
+        - optimize for CTR: click through rate
+            - use question title tags
+            - fill in missing meta descriptions
+            - use review of FAQ schema
+            - add emotion to tile tags
+            - add curent year to title and descriptions
+        - UX signals (how Google searchers interact with your content)
+            - push content to top (no scrolling needed)
+            - chunk your content (H2 subheadings)
+            - have an active community (blog section)
+        - advanced tips 
+            - use original images with name and alt text
+            - internal links
+            - write comprehensive content
+            - faster page speed
+            - rank content in featured snippets 
+            - voice search capable
+    - meta data w/ meta tags
+        - tile tag 
+        - URL (not included)
+        - meta description w/ bolded keyword
+    - title tags    
+        - will display on browser tag
+        - can be seen in source code
+        - key words at front | company name 
+        - no longer than 55 - 60 characters
+        - avoid special characters
+        - seperate keywords wit hyphens if using multiple
+    - meta description
+        - only displays on search page 
+        - should be less than 160 characters
+        - include calls to action (learn more, find out, download)
+        - include keywords
+        - avoid quotations or special characters
+    - meta keywords tag
+        - not used anywore, but still accepted
+    - url optimization 
+        - leave paramerts out of URL
+        - focus on optimized url while making new sites
+        - if changing existing URLs use 301 redirect
+        - use keywords in URL
+    - heading tags  
+        - search engines only look at h1 and h2s
+    - creating and optimizing unique content
+        - relevant to site theme and organized properly
+        - qutoing text if fine, but need unique content
+        - breakup keyword use and use synonyms
+        - link to other content with anchor test
+        - do not over optimize
+    - analyzing a website using a web crawler/spider
+        - Screaming Frog SEO spider
+        - A crawler is the best way to get a large scale view of the meta-data for on-page SEO. 
+- Module 2: Off-page SEOs
+    - off-site elements
+        - increasing your brand recognition and visibility through social media
+
+
+
