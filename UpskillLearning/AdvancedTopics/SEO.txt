@@ -76,6 +76,65 @@ Google SEO Fundamentals Notes
 - Module 2: Off-page SEOs
     - off-site elements
         - increasing your brand recognition and visibility through social media
+        - building links to site
+        - PageRank is currently not used to determine a page’s authority, now site authority
+        - MozMetrics
+    - linking your content
+        - earn natural links
+        - are the links from high authority relevant sites
+        - links are best in body of text with anchor word text
+        - Link Disavowl Tool: websites can discount links pointed to their site
+            - regularly edit and aquire new backlinks
+    - https://moz.com/beginners-guide-to-seo/growing-popularity-and-links
+    - https://www.searchenginejournal.com/social-media-seo/196185/#close
+    - social media  
+        - build brand awarness in beginning
+        - indirest influence on SEO by engaging your user base
+        - Social media usage does not cause higher rankings for site authority
+            - crawled and indexed
+- Module 3: Technical SEO
+    - lay a structural foundation for your content so that search engines can more easily discover the content on your site
+    - HTML Sitemap vs. XML Sitemap
+        - need both in site design
+        - HTML sitemaps are easily read and understood by users while XML sitemaps are created for search engines
+        - XML: Google Search Console or Bing Webmaster Tools and uploading your sitemap, you are able to inform search engines of the presence of your new site and what pages exist
+            - XMLsitemaps.com or Screaming Frog
+        - HTML: HTML sitemap is a simple page that contains links to important pages within the site
+    - robots.txt
+        - a protocol that allows you to specify which pages should or should not be indexed
+        - specify the rate at which files are accessed by search engine robots
+        - though most search engine bots, like those from Google or Bing, respect this file, malicious bots can ignore the requests outlined in the robots.txt
+        - robots.txt file must be placed in your site’s root folder or it will be ignored by bots
+    - error codes
+        - soft 404: page that no longer exists but still returns a 200, often identified as duplicate pages
+            - use google search console to identify
+        - 500: server error
+        - 503: server service is not available
+        - 301: permanent redirect (is credited with the trust that the old page had built up)
+        - 302/307: temporary redirect
+        - meta refresh: executed at page level instead of server
+        - 404 pages that have significant authority should be redirected to an appropriate page
+    - https://blog.hubspot.com/marketing/the-beginners-guide-to-technical-seo-7-resources-you-should-use
+- Module 4: Keyword Theory and Research
+    - proper keyword selection (be specific for less competitive search)
+    - stages of search
+        - organic search: general awareness of what you were looking for
+        - evaluation: evaluate those choices and develop a specific preference 
+        - narrowing: look into that preference and make a final decision 
+        - purchase: move on to the purchase or resolution Face.
+    - query
+        - navigational query: searcher already knows what they want to find, but they need the search engine’s help to find it
+        - informational query: get a bit more information about a topic or make an informed decision prior to making a purchase
+        - transactional query: they are ready to buy, directly to product
+    - long tails keywords
+        - used less frequently (hard to optimize for)
+        - account for a lower volume of overall searches, they're extremely beneficial to driving the right traffic to your site
+    - user searches
+        - 50/50 split key words vs search phrases
+        - how questions make up 38%
+        - seasonal trend
+
+
 
 
 
