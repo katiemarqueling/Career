@@ -19,15 +19,15 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/StacksResidents.json)
     - [X] [YAML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/YAML.yml)
     - [X] [XML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/XML.xml)
-- [ ] Markups
+- [X] Markups
     - [X] [Markdown](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/Resume.md)
     - [X] [HTML and CSS](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/LifeofTendy.html)
     - [X] [AsciiDoc](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/GwartsCare.adoc)
 #### [Technical Writing](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/TechnicalWriting)
-- [ ] [<i> Docs Like Code</i>, Anne Gentle](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/DocsLikeCode.txt)
+- [X] [<i> Docs Like Code</i>, Anne Gentle](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/DocsLikeCode.txt)
 - [X] [CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation](https://www.credly.com/badges/2a50be9c-a3c5-48a2-8c39-a9bcba40c9f6/linked_in_profile)
 - [ ] [Technical Writing Styles](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/TechnicalWritingStyles.txt)
-- [ ] Open Source - Jenkins
+- [ ] Open Source
 #### [Documentation Tools](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DocumentationTools)
 - [ ] [Swagger](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DocumentationTools/Swagger.txt)
 - [ ] JavaDocs
@@ -51,4 +51,4 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Nginx/Apache
 - [ ] Node.js/Java
 - [ ] React/Angular
-- [ ] [Search Engine Optimization](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/SEO.txt)
+- [X] [Search Engine Optimization](https://coursera.org/share/7bc9af50088ee3471c6a58648ebee756)
