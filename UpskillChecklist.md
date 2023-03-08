@@ -28,6 +28,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [X] [CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation](https://www.credly.com/badges/2a50be9c-a3c5-48a2-8c39-a9bcba40c9f6/linked_in_profile)
 - [ ] [Technical Writing Styles](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/TechnicalWritingStyles.txt)
 - [ ] Open Source
+- [ ] [Grammer and Punctuation Course](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/GrammerAndPunctuation.txt)
 #### [Documentation Tools](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DocumentationTools)
 - [ ] [Swagger](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DocumentationTools/Swagger.txt)
 - [ ] JavaDocs

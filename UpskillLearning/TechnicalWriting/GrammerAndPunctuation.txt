@@ -1,0 +1,19 @@
+Grammer and Punctuation Notes
+
+- verb tenses
+    - simple present tense (plays)
+        - something that happens regularly or doesn't happen regularly
+        - singular: -s
+        - plural: -
+    - simple past tense (played)
+    - simple future tense (will play)
+    - present progressive (is playing) (b verb + ing)
+        - singluar b verb: is ing
+        - pluarl b verb: are ing
+    - past progressive (was playing)
+        - singluar b verb: was ing
+        - pluarl b verb: were ing
+    - future progressive (will be playing)
+    - present perfect (has eaten)
+    - past perfect (had not eaten before he took)
+    - future perfect (will have eaten)
