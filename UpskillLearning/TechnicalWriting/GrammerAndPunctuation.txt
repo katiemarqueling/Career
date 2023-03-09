@@ -50,8 +50,27 @@ Grammer and Punctuation Notes
         - present perfect: an action that was finished before that moment, but may still be happening
         - simple past: the action happened at a specific time in the past
 - conjunctions
-- simple sentence: one subject and verb (independent clause)
-- compound sentence: 
-- complex sentence: 
+    - https://owl.purdue.edu/owl/general_writing/academic_writing/sentence_variety/sentence_types.html
+    - simple sentence: one subject and verb (independent clause) 
+        - compound verb: no comman if just connecting verbs, just and
+    - compound sentence: two independent clause joined together with conjunction (and comma)
+        - coordinate conjunctions: and, but, or, nor, yet, so, for
+        - ; + transition: therefore, in addition, furthermore, otherwise, nonetheless, however, thus, similarly, then, also
+        - ;: two closely related independent clauses, ; is replacing and
+    - complex sentence: independent clause + dependent clause with connector
+        - coordinate conjunctions: and but or nor yet so for
+        - adverb clause connector: after, while, before, if, although, when, since, and because
+            - adverb in beginning, need comma after dependent clause
+            - adverb in middle, no comma
+- commas
+    - use commas
+        - series with 3 or more
+        - two simple sentences/independent clauses joined with a conjunction
+        - introducatory phrase, not apart of independent clause
+        - , interrupting phrases,
+    - dont use commas
+        - two nouns, verbs, or adjectives
+    
+
 
  
