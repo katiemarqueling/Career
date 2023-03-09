@@ -2,18 +2,56 @@ Grammer and Punctuation Notes
 
 - verb tenses
     - simple present tense (plays)
-        - something that happens regularly or doesn't happen regularly
-        - singular: -s
-        - plural: -
+        - something that happens regularly or doesn't happen regularly (shows habit)
+        - s: -s
+        - p: simple form of the verb
     - simple past tense (played)
+        - happened in the past and finished in the past at a particular time
+        - s & p: -ed
     - simple future tense (will play)
+        - will plus the simple form of the verb
     - present progressive (is playing) (b verb + ing)
+        - that an action is continuing at a certain period of tim
         - singluar b verb: is ing
         - pluarl b verb: are ing
     - past progressive (was playing)
+        - an action that was continuing at a certain time in the past
         - singluar b verb: was ing
         - pluarl b verb: were ing
     - future progressive (will be playing)
+        - that will be happening continuously at a time in the future
+        - will be ing
     - present perfect (has eaten)
+        - show something that happened in the past before now at a non-specific time or regularly
+        - s: has + a past participle
+        - p: have + a past participle
     - past perfect (had not eaten before he took)
+        - two actions in the past and we want to show that one of the actions happened before the other action
+        - had + a past participle
     - future perfect (will have eaten)
+        - two actions in the future
+        - will plus + verb have in it's simple form + a past participle
+    - present perfect progressive (has been waiting)
+        - shows that something started before now and has continued and may continue even longer
+        - had, have, or has + been + ing
+    - past perfect progressive (had been sleeping)
+        - shows that something was happening in the past and may have been going on before something else
+        - a past tense of have + a past participle verb + ing
+    - future perfect progressive (will have been studying)
+        - emphasizes a continuous action in the future that lasts continuously
+        - will + have + been + ing
+    - present perfect vs present perfect progressive
+        - a lot of times present perfect and present perfect progressive have the same meaning and can both be used
+        - present perfect: be verb: signals that action is finished
+            - one time, twice, before
+        - present perfect progressive: can be used to emphasize that the action is still going on
+            - for one hour, all day
+    - present perfect vs. simple past
+        - present perfect: an action that was finished before that moment, but may still be happening
+        - simple past: the action happened at a specific time in the past
+- conjunctions
+- simple sentence: one subject and verb (independent clause)
+- compound sentence: 
+- complex sentence: 
+
+ 
