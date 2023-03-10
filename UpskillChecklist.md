@@ -31,7 +31,7 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [X] [Grammer and Punctuation Course](https://coursera.org/share/d72b4ef1dd341eb75c423c81a1ccb71d)
 #### [Documentation Tools](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DocumentationTools)
 - [ ] [Swagger](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DocumentationTools/Swagger.txt)
-- [ ] JavaDocs
+- [ ] JavaDoc
 - [ ] RESTful
 #### Dev Tools
 - [ ] Stack Overflow
