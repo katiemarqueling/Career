@@ -1,0 +1,4 @@
+JavaDoc Notes
+
+- API documention for Java 
+- generates standard document based on comments. 
