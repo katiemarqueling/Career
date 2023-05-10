@@ -1,6 +1,6 @@
 # Katie Marqueling
 Hi, I'm Katie! Here you can find my 
-[resume](https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/ResumeMarqueling.pdf) and a 
+[resume](https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/MarquelingResume.pdf) and a 
 [cover letter](https://github.com/katiemarqueling/Career/blob/main/Resume%26CoverLetter/MarquelingCoverLetter.pdf). Furthermore, you can track my plan to [upskill](https://github.com/katiemarqueling/Career/blob/main/UpskillChecklist.md)!
 
 Growing up, I struggled to learn technology. I lived in a household where everyone worked with and quickly adapted to the ever-changing technological advancements. I relied on these members of my house to solve all of my problems with little to no explanation. When I went off to college, I realized that I, along with most of the women in my dorm, were not technologically literate. Therefore, I made it my mission to become self-sufficient, and I applied for a job at my university's technology department in customer support. While I was substantially underqualified for the position, the hiring manager appreciated my desire and passion to challenge myself, and I was hired. I quickly excelled at explaining advanced technological topics to non-technical people, as I understood what it was like to struggle without a willing or patient teacher.
