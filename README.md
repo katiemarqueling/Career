@@ -15,7 +15,7 @@ Thank you for your time.
 
 Katie
 
-My portfolio can be found at [schmarqueling.com](scharqueling.com)
+My portfolio can be found at [schmarqueling.com](scharqueling.com).
 
 Please feel free to contact me at katie@marqueling.com, <a href="tel:+16025401619"> (602)540-1619</a>, or on 
 [LinkedIn](https://www.linkedin.com/in/katiemarqueling/).
