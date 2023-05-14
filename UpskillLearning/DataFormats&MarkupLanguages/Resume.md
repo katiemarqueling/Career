@@ -1,8 +1,4 @@
 # Katie Marqueling <br>
-[katie@marqueling.com](katie@marqueling.com) <br>
-[schmarqueling.com](schmarqueling.com) <br>
-[github.com/katiemarqueling](https://github.com/katiemarqueling) <br>
-[linkedin.com/in/katiemarqueling/](linkedin.com/in/katiemarqueling/) <br>
 
 <i>Certified technical communicator and master's student who is seeking positions in technical communication.</i><br>
 ## Education<br>
