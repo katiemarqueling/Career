@@ -44,9 +44,9 @@ If you work in technology and have any advice on skills to add to this list, ple
 - [ ] Databases
 - [X] [CI/CD](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/CICD.txt)
 - [X] [Cloud Concepts](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/AdvancedTopics/CloudConcepts.txt)
-- [ ] [GitHub Pages](katie.marqueling.com)
+- [ ] GitHub Pages
 - [ ] Nginx/Apache
 - [ ] Node.js/Java
 - [ ] React/Angular
 - [X] [Search Engine Optimization](https://coursera.org/share/7bc9af50088ee3471c6a58648ebee756)
-- [ ] WordPress
+- [ ] [WordPress](https://schmarqueling.com/)

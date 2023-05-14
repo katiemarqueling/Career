@@ -169,6 +169,4 @@ Docs Like Code Notes
       - pre-plan relese of web-based documentation sites in phases
       - staging areas
     - archives contain all files - repos do not automate this
-- Chapter 4: tutorial
-  - 
     
