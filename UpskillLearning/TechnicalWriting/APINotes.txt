@@ -1,0 +1,13 @@
+OpenAPI Notes
+
+- YAML
+- Editing an OpenAPI File: md and html
+- Intellij
+- ReDocly
+
+- modifying the description tag
+- call primaters description
+
+- writeonce.org
+- robert@writeonce.org
+- roertdelwood.medium.com

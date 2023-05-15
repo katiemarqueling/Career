@@ -1,7 +1,10 @@
-Accessibility
+Accessibility Notes
 
 - universal design: a deign methodology that enables and draws on the full rancge of human diversity
 - accessibility: that qualiies that make an experience open to all 2. a professional discipline aimed at achieving no. 1
-
 - word: styles, inpect document
 - pdf: acrobat PDF checker
+- alt text on images: rich and natural language 
+- form field need to be tagged for jaws
+- business case to get pro
+- alt text character limits
