@@ -1,0 +1,18 @@
+SME Notes
+
+- nickybleiel.com
+- give as much info as possible (dates, prep, info needed, links)
+- summarize: what im hearing you say is...
+- words to avoid: no, you, problem, issue
+
+- who would use this feature?
+- what are the prereqs?
+- when would users use this feature?
+- why should they use it?
+- where will they use it?
+- how do you think this feature will help the user?
+
+- the missing manuel
+- nuts and bults: working w/ SME
+- 12 tips for working w/ SME
+- intercom: legends of tech Commits
