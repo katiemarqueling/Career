@@ -1,0 +1,107 @@
+STC Summit 2023 Notes
+
+Accessibility
+- universal design: a deign methodology that enables and draws on the full rancge of human diversity
+- accessibility: that qualiies that make an experience open to all 2. a professional discipline aimed at achieving no. 1
+- word: styles, inpect document
+- pdf: acrobat PDF checker
+- alt text on images: rich and natural language 
+- form field need to be tagged for jaws
+- business case to get pro
+- alt text character limits
+
+ChatGPT
+- turn off chat history
+- OpenAPI os working on a new ChatGT business subscription
+- Mircosoft may offer a private ChatGTP to businesses
+- language model
+- TMS
+
+Crossing the Street
+
+Data
+- matomo, similarweb, hotjat, tinyalaytics, mispantel, adove experience cloud, google analytics, amplitude
+- gdr compliance
+- important metrics
+    - page views
+    - visits
+    - unqe visiors
+    - time spent per visits
+    - visits/visitors
+    - bouce rate
+    - referrer rate
+
+Docs-As-Code
+    - writethedocs.org
+    - docsascode.com
+    - lw dita
+    - restructured text
+
+Editing from Audience Perspective
+    - not making dcisions or recomendations for the audience
+    - authors are not SMEs
+        - 1 identify audience and reason for reading or using the infomration
+            - explicet and implicet (regulators)
+        - 2 perform audience-focuesed editing
+        - 3 communication and resolution
+    - 
+
+Ethical Editing
+    - five cannons of rhetoric
+        - invention
+            - what is the subject matter
+            - what values are influencing your argument
+                - are references to ___ in your content relevant
+                - are you missing content relevant to ___
+                - does the ordering of your content imply hierarchy
+        - arrangement
+            - where to organize words, sentences, paragraphs, and sections
+                - is ___ relevant to your audience
+                - is ___ relevant to your message
+                - how does your message consider ___
+        - style
+            - how does your language relect how you value ___
+            - how do the visuals used relecr how you value ___
+        - memory
+            - how can you make a deep impact, and reach your audience on an emotional level
+                - will the longevity of the content affect ___
+        - delivery
+            - what mechanics to use to impart your message most persuasively
+                - does the delivery format cause harm to ___
+    - four tips
+        - replace "correct" with "compliant" (not just US english)
+        - know why you are complying
+        - use purpose and audience to choose
+        - consider rhetoric when persuading clients
+    - resources
+        - conscious style guide
+        - TW style guides
+            - microsoft style guide "whats new" page
+        - academic style guides
+
+OpenAPI 
+- YAML
+- Editing an OpenAPI File: md and html
+- Intellij
+- ReDocly
+- modifying the description tag
+- call primaters description
+- writeonce.org
+- robert@writeonce.org
+- roertdelwood.medium.com
+
+SME
+- nickybleiel.com
+- give as much info as possible (dates, prep, info needed, links)
+- summarize: what im hearing you say is...
+- words to avoid: no, you, problem, issue
+- who would use this feature?
+- what are the prereqs?
+- when would users use this feature?
+- why should they use it?
+- where will they use it?
+- how do you think this feature will help the user?
+- the missing manuel
+- nuts and bults: working w/ SME
+- 12 tips for working w/ SME
+- intercom: legends of tech Commits

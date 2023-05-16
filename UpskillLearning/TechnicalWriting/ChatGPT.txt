@@ -1,9 +1,0 @@
-ChatGPT Notes
-
-- turn off chat history
-- OpenAPI os working on a new ChatGT business subscription
-- Mircosoft may offer a private ChatGTP to businesses
-- language model
-- TMS 
-
-
