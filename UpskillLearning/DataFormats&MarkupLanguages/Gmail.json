@@ -1,0 +1,52 @@
+{
+    "emails": [
+        {
+            "sender": "christoph@schild.tech",
+            "timestamp": 12345,
+            "read": true,
+            "title": "TFD",
+            "message": "Should we buy a tendra flotation device?"
+        },
+        {
+            "sender": "christoph@schild.tech",
+            "timestamp": 12346,
+            "read": false,
+            "title": "TFD",
+            "message": "NM. I went ahead and bought a tendra flotation device."
+        }
+    ],
+    "user": {
+        "firstname": "Katie",
+        "lastname": "Marqueling",
+        "URLofProfilePicture": "schmarqueling.com",
+        "emailaddress": "katie@marqueling.com"
+    },
+    "googlemeet": {
+        "pastcalls": [
+            {
+                "outgoing": true,
+                "partneremail": "matt@marqueling.com",
+                "timestamp": 123456
+            },
+            {
+                "outgoing": false,
+                "partneremail": "angie@marqueling.com",
+                "timestamp": 1234567
+            }
+        ],
+        "currentlyavailable": [
+            {
+                "angie@marqueling.com": false
+            },
+            {
+                "matt@marqueling.com": false
+            },
+            {
+                "christoph@mschild.tech": true
+            },
+            {
+                "kmarquel@iu.edu": false
+            }
+        ]
+    }
+}
