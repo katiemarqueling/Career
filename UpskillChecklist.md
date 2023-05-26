@@ -16,7 +16,7 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [X] Conventions
 #### [Data Formats and Markup Languages](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DataFormats%26MarkupLanguages)
 - [X] Data Formats
-    - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/StacksResidents.json)
+    - [X] [JSON](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/Gmail.json)
     - [X] [YAML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/YAML.yml)
     - [X] [XML](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/XML.xml)
 - [X] Markups
@@ -25,9 +25,9 @@ If you work in technology and have any advice on skills to add to this list, ple
     - [X] [AsciiDoc](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/DataFormats%26MarkupLanguages/GwartsCare.adoc)
 #### [Technical Writing](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/TechnicalWriting)
 - [X] [<i> Docs Like Code</i>, Anne Gentle](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/DocsLikeCode.txt)
-- [X] [CERTIFICATION: Certified Professional Technical Communicator - Foundation, Society for Technical Communitcation](https://www.credly.com/badges/2a50be9c-a3c5-48a2-8c39-a9bcba40c9f6/linked_in_profile)
+- [X] [Certified Professional Technical Communicator](https://www.credly.com/badges/2a50be9c-a3c5-48a2-8c39-a9bcba40c9f6/linked_in_profile)
 - [X] [Grammer and Punctuation Course](https://coursera.org/share/d72b4ef1dd341eb75c423c81a1ccb71d)
-- [ ] [STC Summit 2023](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/Summit2023.txt)
+- [X] [STC Summit 2023](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/Summit2023.txt)
 - [X] [Technical Writing Styles](https://github.com/katiemarqueling/Career/blob/main/UpskillLearning/TechnicalWriting/TechnicalWritingStyles.txt)
 - [ ] Open Source
 #### [Documentation Tools](https://github.com/katiemarqueling/Career/tree/main/UpskillLearning/DocumentationTools)
