@@ -1,15 +1,15 @@
-# How to Make a Peanut Butter and Jelly
+= How to Make a Peanut Butter and Jelly
 
 Peanut butter and jelly, everybodies favorite condiemnts. Now imagine them combined for the optimal lunch. In this tutorial, we'll show you how to prepare a typical peanut butter and jelly sandwich.
 
-## Items Needed
+== Items Needed
 * Peanut butter
 * Jelly
 * 2 slices of sandwich bread
 * Plate
 * Butter knife
 
-## Steps
+== Steps
 1. Open the bag of sandwich bread and take out two slices. Place these slices side by side on the plate.
 2. Open the peanut butter and jelly jars.
 3. Using your butter knife, scrape out your preferred amount of peanut butter from the jar. Spread the peanut butter over one slice of sandwich bread.
@@ -19,5 +19,5 @@ Peanut butter and jelly, everybodies favorite condiemnts. Now imagine them combi
 7. Combine the two slices, marrying the peanut butter and jelly together.
 8. Enjoy your sandwich!
 
-## Safety Information
+== Safety Information
 _Be aware of any food [red]#allergies# before making a peanut butter and jelly sandwich_
